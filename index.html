@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4f6f5">
+  <meta property="og:title" content="Fibra · Atlas muscular 3D">
+  <meta property="og:description" content="Marca los músculos que duelen en un cuerpo 3D y comparte el mapa con su plan de ejercicios.">
+  <meta property="og:type" content="website">
+  <title>Fibra · Atlas muscular 3D</title>
+  <meta name="description" content="Atlas muscular 3D para marcar músculos lesionados y obtener su plan de estiramientos y ejercicios.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 1c5 5 5 17 0 22C7 18 7 6 12 1z' fill='%231b6c80'/%3E%3C/svg%3E">
+  <script type="module" crossorigin src="./assets/index-DzmqyGPO.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-jtutRXG3.css">
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <a class="brand" href="./" aria-label="Fibra, atlas muscular">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 1c5 5 5 17 0 22C7 18 7 6 12 1z" fill="var(--accent)"/><path d="M12 5v14" stroke="var(--ground)" stroke-width="1.4" stroke-linecap="round"/></svg>
+        <span class="brand-name">Fibra</span><span class="brand-sub">Atlas muscular</span>
+      </a>
+      <div class="search" role="search">
+        <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10.5 10.5 14 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        <input id="search" type="search" placeholder="Buscar músculo o grupo" autocomplete="off" aria-label="Buscar músculo o grupo" aria-controls="results">
+        <kbd>/</kbd>
+        <ul id="results" class="results" hidden></ul>
+      </div>
+      <div class="top-actions">
+        <span id="count" class="count"></span>
+        <button id="print" class="btn" type="button">Imprimir</button>
+        <button id="share" class="btn primary" type="button">Compartir</button>
+      </div>
+    </header>
+
+    <nav class="side" aria-label="Zonas del cuerpo">
+      <p class="side-label">Zonas</p>
+      <ul id="zones" class="zones"></ul>
+      <p class="side-label">Vista</p>
+      <ul class="toggles">
+        <li><label title="También con Mayús + clic"><input type="checkbox" id="t-multi"><span>Selección múltiple</span></label></li>
+        <li><label><input type="checkbox" id="t-skeleton" checked><span>Esqueleto</span></label></li>
+        <li><label><input type="checkbox" id="t-isolate"><span>Aislar la zona</span></label></li>
+        <li><label><input type="checkbox" id="t-injured"><span>Solo lesionados</span></label></li>
+      </ul>
+      <button id="unhide" class="link" type="button" hidden></button>
+      <p class="credit">Modelo anatómico: BodyParts3D, © 2008 Life Science Integrated Database Center, licencia CC BY-SA 2.1 Japón.</p>
+    </nav>
+
+    <main class="sheet">
+      <section class="stage" aria-label="Modelo 3D del cuerpo">
+        <div id="canvas" class="canvas"></div>
+        <div class="crumbs"><h1 id="crumbs"></h1></div>
+        <div class="views" role="group" aria-label="Orientación">
+          <button type="button" data-view="0,0.05,1">Frente</button>
+          <button type="button" data-view="0,0.05,-1">Espalda</button>
+          <button type="button" data-view="1,0.05,0">Izquierda</button>
+          <button type="button" data-view="-1,0.05,0">Derecha</button>
+        </div>
+        <ul class="legend" aria-label="Gravedad">
+          <li><i style="background:var(--sev1)"></i>Leve</li>
+          <li><i style="background:var(--sev2)"></i>Moderada</li>
+          <li><i style="background:var(--sev3)"></i>Severa</li>
+        </ul>
+        <div class="zoom" role="group" aria-label="Zoom">
+          <button type="button" id="z-out" aria-label="Alejar">−</button>
+          <button type="button" id="z-in" aria-label="Acercar">+</button>
+          <button type="button" id="z-fit">Encajar</button>
+        </div>
+        <button id="multi-btn" class="multi-btn" type="button" aria-pressed="false">Varios</button>
+        <div id="tip" class="tip" hidden></div>
+        <div id="loading" class="loading"><p>Cargando el modelo anatómico</p><div class="bar"><i id="bar"></i></div></div>
+      </section>
+
+      <aside class="inspector">
+        <button class="handle" id="handle" type="button" aria-label="Abrir o cerrar el panel"></button>
+        <div id="quick" class="quick"></div>
+        <div class="tabs" role="tablist">
+          <button role="tab" id="tab-m" aria-selected="true" aria-controls="panel-m">Músculos</button>
+          <button role="tab" id="tab-p" aria-selected="false" aria-controls="panel-p">Plan<span id="tab-count"></span></button>
+        </div>
+        <div id="panel-m" class="panel" role="tabpanel" aria-labelledby="tab-m"></div>
+        <div id="panel-p" class="panel" role="tabpanel" aria-labelledby="tab-p" hidden></div>
+      </aside>
+    </main>
+  </div>
+  <div id="menu-back" class="menu-back" hidden></div>
+  <div id="menu" class="menu" role="menu" hidden></div>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>
