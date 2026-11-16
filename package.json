@@ -7,7 +7,8 @@
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "model": "node tools/build-model.mjs"
+    "model": "node tools/build-model.mjs",
+    "deploy": "vite build && touch dist/.nojekyll && cd dist && git init -q -b gh-pages && git add -A && git commit -q -m Publicar && git push -f https://github.com/israads/fibra-atlas-muscular.git gh-pages && rm -rf .git"
   },
   "dependencies": {
     "@fontsource/ibm-plex-sans": "^5.3.0",

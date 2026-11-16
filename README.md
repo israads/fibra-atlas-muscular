@@ -11,9 +11,21 @@ npm run build    # genera dist/ (sitio estático)
 ```
 
 - Clic en una zona del cuerpo: acerca la cámara a esa zona. Clic en un músculo: lo selecciona.
-- Arrastrar gira, la rueda acerca, botón derecho desplaza. Doble clic centra el músculo.
+- Arrastrar gira, la rueda acerca, arrastrar con el botón derecho desplaza.
+- Clic derecho, doble clic o pulsación larga (táctil) sobre un músculo: menú para asignar la gravedad.
+- Selección múltiple (o Mayús + clic) para formar un grupo de músculos y marcarlos juntos.
 - Teclas: `1` leve, `2` moderada, `3` severa, `0` sano, `H` ocultar el músculo (para ver los profundos), `Esc` volver, `/` buscar.
 - Las marcas, el nombre del paciente y las notas se guardan en el navegador (localStorage).
+
+## Publicación
+
+Sitio: https://israads.github.io/fibra-atlas-muscular/
+
+`npm run deploy` compila y sube `dist/` a la rama `gh-pages`, que es la que sirve GitHub Pages.
+
+## Compartir
+
+El botón Compartir genera un enlace que lleva en la URL los músculos marcados, su gravedad, el nombre y las notas. No hay servidor ni cuentas: quien abre el enlace ve el mismo mapa y su plan.
 
 ## Estructura
 
