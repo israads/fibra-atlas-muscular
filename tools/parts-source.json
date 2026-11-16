@@ -1,0 +1,6540 @@
+{
+"FMA52780": {
+"name": "ear",
+"kind": "other",
+"side": "C",
+"base": "ear",
+"size": 1185784
+},
+"FMA52735": {
+"name": "occipital bone",
+"kind": "bone",
+"side": "C",
+"base": "occipital bone",
+"size": 1390684
+},
+"FMA52734": {
+"name": "frontal bone",
+"kind": "bone",
+"side": "C",
+"base": "frontal bone",
+"size": 1653184
+},
+"FMA52736": {
+"name": "sphenoid bone",
+"kind": "bone",
+"side": "C",
+"base": "sphenoid bone",
+"size": 766184
+},
+"FMA52740": {
+"name": "ethmoid",
+"kind": "bone",
+"side": "C",
+"base": "ethmoid",
+"size": 388784
+},
+"FMA9710": {
+"name": "vomer",
+"kind": "bone",
+"side": "C",
+"base": "vomer",
+"size": 121184
+},
+"FMA52748": {
+"name": "mandible",
+"kind": "bone",
+"side": "C",
+"base": "mandible",
+"size": 1082984
+},
+"FMA52749": {
+"name": "hyoid bone",
+"kind": "bone",
+"side": "C",
+"base": "hyoid bone",
+"size": 276784
+},
+"FMA12519": {
+"name": "atlas",
+"kind": "bone",
+"side": "C",
+"base": "atlas",
+"size": 308684
+},
+"FMA12520": {
+"name": "axis",
+"kind": "bone",
+"side": "C",
+"base": "axis",
+"size": 343584
+},
+"FMA12525": {
+"name": "seventh cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "seventh cervical vertebra",
+"size": 261184
+},
+"FMA16202": {
+"name": "sacrum",
+"kind": "bone",
+"side": "C",
+"base": "sacrum",
+"size": 2220884
+},
+"FMA7486": {
+"name": "manubrium",
+"kind": "bone",
+"side": "C",
+"base": "manubrium",
+"size": 594184
+},
+"FMA7487": {
+"name": "body of sternum",
+"kind": "bone",
+"side": "C",
+"base": "body of sternum",
+"size": 995884
+},
+"FMA7488": {
+"name": "xiphoid process",
+"kind": "bone",
+"side": "C",
+"base": "xiphoid process",
+"size": 204384
+},
+"FMA46768": {
+"name": "aponeurosis of epicranius",
+"kind": "muscle",
+"side": "C",
+"base": "aponeurosis of epicranius",
+"size": 20283984
+},
+"FMA46841": {
+"name": "orbicularis oris",
+"kind": "muscle",
+"side": "C",
+"base": "orbicularis oris",
+"size": 1880784
+},
+"FMA71442": {
+"name": "set of anterior cervical intertransversarii",
+"kind": "muscle",
+"side": "C",
+"base": "set of anterior cervical intertransversarii",
+"size": 416184
+},
+"FMA71443": {
+"name": "set of posterior cervical intertransversarii",
+"kind": "muscle",
+"side": "C",
+"base": "set of posterior cervical intertransversarii",
+"size": 439184
+},
+"FMA71444": {
+"name": "set of lateral lumbar intertransversarius muscles",
+"kind": "muscle",
+"side": "C",
+"base": "set of lateral lumbar intertransversarius muscles",
+"size": 554584
+},
+"FMA23083": {
+"name": "thoracic rotator",
+"kind": "muscle",
+"side": "C",
+"base": "thoracic rotator",
+"size": 4419784
+},
+"FMA71307": {
+"name": "set of interspinales lumborum",
+"kind": "muscle",
+"side": "C",
+"base": "set of interspinales lumborum",
+"size": 541984
+},
+"FMA71308": {
+"name": "set of interspinales thoracis",
+"kind": "muscle",
+"side": "C",
+"base": "set of interspinales thoracis",
+"size": 197884
+},
+"FMA71309": {
+"name": "set of interspinales cervicis",
+"kind": "muscle",
+"side": "C",
+"base": "set of interspinales cervicis",
+"size": 342584
+},
+"FMA76775": {
+"name": "set of medial lumbar intertransversarius muscles",
+"kind": "muscle",
+"side": "C",
+"base": "set of medial lumbar intertransversarius muscles",
+"size": 1008384
+},
+"FMA9756": {
+"name": "external intercostal muscle",
+"kind": "muscle",
+"side": "C",
+"base": "external intercostal muscle",
+"size": 40802884
+},
+"FMA9757": {
+"name": "internal intercostal muscle",
+"kind": "muscle",
+"side": "C",
+"base": "internal intercostal muscle",
+"size": 36157784
+},
+"FMA9758": {
+"name": "innermost intercostal muscle",
+"kind": "muscle",
+"side": "C",
+"base": "innermost intercostal muscle",
+"size": 33900784
+},
+"FMA13295": {
+"name": "diaphragm",
+"kind": "muscle",
+"side": "C",
+"base": "diaphragm",
+"size": 10533384
+},
+"FMA11336": {
+"name": "linea alba",
+"kind": "muscle",
+"side": "C",
+"base": "linea alba",
+"size": 475884
+},
+"FMA46442": {
+"name": "tendinous arch of levator ani",
+"kind": "other",
+"side": "C",
+"base": "tendinous arch of levator ani",
+"size": 342284
+},
+"FMA21930": {
+"name": "external anal sphincter",
+"kind": "other",
+"side": "C",
+"base": "external anal sphincter",
+"size": 183484
+},
+"FMA7131": {
+"name": "esophagus",
+"kind": "other",
+"side": "C",
+"base": "esophagus",
+"size": 132184
+},
+"FMA7148": {
+"name": "stomach",
+"kind": "other",
+"side": "C",
+"base": "stomach",
+"size": 469284
+},
+"FMA7206": {
+"name": "duodenum",
+"kind": "other",
+"side": "C",
+"base": "duodenum",
+"size": 597584
+},
+"FMA7207": {
+"name": "jejunum",
+"kind": "other",
+"side": "C",
+"base": "jejunum",
+"size": 1573484
+},
+"FMA7208": {
+"name": "ileum",
+"kind": "other",
+"side": "C",
+"base": "ileum",
+"size": 1562584
+},
+"FMA14542": {
+"name": "appendix",
+"kind": "other",
+"side": "C",
+"base": "appendix",
+"size": 34584
+},
+"FMA76891": {
+"name": "mesocolic taenia",
+"kind": "other",
+"side": "C",
+"base": "mesocolic taenia",
+"size": 1576284
+},
+"FMA76892": {
+"name": "omental taenia",
+"kind": "other",
+"side": "C",
+"base": "omental taenia",
+"size": 1855984
+},
+"FMA76893": {
+"name": "free taenia",
+"kind": "other",
+"side": "C",
+"base": "free taenia",
+"size": 2451484
+},
+"FMA14544": {
+"name": "rectum",
+"kind": "other",
+"side": "C",
+"base": "rectum",
+"size": 441284
+},
+"FMA7197": {
+"name": "liver",
+"kind": "other",
+"side": "C",
+"base": "liver",
+"size": 970884
+},
+"FMA7202": {
+"name": "gallbladder",
+"kind": "other",
+"side": "C",
+"base": "gallbladder",
+"size": 692384
+},
+"FMA10419": {
+"name": "pancreatic duct",
+"kind": "other",
+"side": "C",
+"base": "pancreatic duct",
+"size": 206484
+},
+"FMA71704": {
+"name": "set of nasal cartilages",
+"kind": "bone",
+"side": "C",
+"base": "set of nasal cartilages",
+"size": 341384
+},
+"FMA55099": {
+"name": "thyroid cartilage",
+"kind": "bone",
+"side": "C",
+"base": "thyroid cartilage",
+"size": 1157384
+},
+"FMA7394": {
+"name": "trachea",
+"kind": "other",
+"side": "C",
+"base": "trachea",
+"size": 693584
+},
+"FMA7383": {
+"name": "middle lobe of lung",
+"kind": "other",
+"side": "C",
+"base": "middle lobe of lung",
+"size": 1173984
+},
+"FMA7333": {
+"name": "upper lobe of right lung",
+"kind": "other",
+"side": "R",
+"base": "upper lobe of lung",
+"size": 1519984
+},
+"FMA7337": {
+"name": "lower lobe of right lung",
+"kind": "other",
+"side": "R",
+"base": "lower lobe of lung",
+"size": 3279684
+},
+"FMA7370": {
+"name": "upper lobe of left lung",
+"kind": "other",
+"side": "L",
+"base": "upper lobe of lung",
+"size": 2032684
+},
+"FMA7371": {
+"name": "lower lobe of left lung",
+"kind": "other",
+"side": "L",
+"base": "lower lobe of lung",
+"size": 2214484
+},
+"FMA15900": {
+"name": "urinary bladder",
+"kind": "other",
+"side": "C",
+"base": "urinary bladder",
+"size": 200884
+},
+"FMA9600": {
+"name": "prostate",
+"kind": "other",
+"side": "C",
+"base": "prostate",
+"size": 87784
+},
+"FMA18247": {
+"name": "glans penis",
+"kind": "other",
+"side": "C",
+"base": "glans penis",
+"size": 262684
+},
+"FMA19618": {
+"name": "corpus cavernosum of penis",
+"kind": "other",
+"side": "C",
+"base": "corpus cavernosum of penis",
+"size": 243084
+},
+"FMA13889": {
+"name": "pituitary gland",
+"kind": "other",
+"side": "C",
+"base": "pituitary gland",
+"size": 252684
+},
+"FMA62033": {
+"name": "pineal body",
+"kind": "other",
+"side": "C",
+"base": "pineal body",
+"size": 126884
+},
+"FMA7234": {
+"name": "tricuspid valve",
+"kind": "other",
+"side": "C",
+"base": "tricuspid valve",
+"size": 2363484
+},
+"FMA7246": {
+"name": "pulmonary valve",
+"kind": "other",
+"side": "C",
+"base": "pulmonary valve",
+"size": 910184
+},
+"FMA7260": {
+"name": "anterior papillary muscle of right ventricle",
+"kind": "other",
+"side": "R",
+"base": "anterior papillary muscle of ventricle",
+"size": 193084
+},
+"FMA7261": {
+"name": "posterior papillary muscle of right ventricle",
+"kind": "other",
+"side": "R",
+"base": "posterior papillary muscle of ventricle",
+"size": 136584
+},
+"FMA7262": {
+"name": "septal papillary muscle of right ventricle",
+"kind": "other",
+"side": "R",
+"base": "septal papillary muscle of ventricle",
+"size": 94984
+},
+"FMA7235": {
+"name": "mitral valve",
+"kind": "other",
+"side": "C",
+"base": "mitral valve",
+"size": 955184
+},
+"FMA7266": {
+"name": "posterior papillary muscle of left ventricle",
+"kind": "other",
+"side": "L",
+"base": "posterior papillary muscle of ventricle",
+"size": 195184
+},
+"FMA3736": {
+"name": "ascending aorta",
+"kind": "other",
+"side": "C",
+"base": "ascending aorta",
+"size": 107884
+},
+"FMA3818": {
+"name": "marginal branch of right coronary artery",
+"kind": "other",
+"side": "R",
+"base": "marginal branch of coronary artery",
+"size": 245484
+},
+"FMA71669": {
+"name": "set of interventricular septal branches of right coronary artery",
+"kind": "other",
+"side": "R",
+"base": "set of interventricular septal branches of coronary artery",
+"size": 37784
+},
+"FMA76994": {
+"name": "right posterolateral branch of right coronary artery",
+"kind": "other",
+"side": "R",
+"base": "posterolateral branch of coronary artery",
+"size": 112384
+},
+"FMA71670": {
+"name": "set of interventricular septal branches of left coronary artery",
+"kind": "other",
+"side": "L",
+"base": "set of interventricular septal branches of coronary artery",
+"size": 60784
+},
+"FMA3895": {
+"name": "circumflex branch of left coronary artery",
+"kind": "other",
+"side": "L",
+"base": "circumflex branch of coronary artery",
+"size": 177184
+},
+"FMA3768": {
+"name": "arch of aorta",
+"kind": "other",
+"side": "C",
+"base": "arch of aorta",
+"size": 164184
+},
+"FMA3784": {
+"name": "descending aorta",
+"kind": "other",
+"side": "C",
+"base": "descending aorta",
+"size": 1190484
+},
+"FMA14768": {
+"name": "left gastric artery",
+"kind": "other",
+"side": "L",
+"base": "gastric artery",
+"size": 11684
+},
+"FMA14771": {
+"name": "common hepatic artery",
+"kind": "other",
+"side": "C",
+"base": "common hepatic artery",
+"size": 40484
+},
+"FMA14773": {
+"name": "splenic artery",
+"kind": "other",
+"side": "C",
+"base": "splenic artery",
+"size": 166384
+},
+"FMA14749": {
+"name": "superior mesenteric artery",
+"kind": "other",
+"side": "C",
+"base": "superior mesenteric artery",
+"size": 17584
+},
+"FMA14750": {
+"name": "inferior mesenteric artery",
+"kind": "other",
+"side": "C",
+"base": "inferior mesenteric artery",
+"size": 30184
+},
+"FMA4706": {
+"name": "coronary sinus",
+"kind": "other",
+"side": "C",
+"base": "coronary sinus",
+"size": 96184
+},
+"FMA4707": {
+"name": "great cardiac vein",
+"kind": "other",
+"side": "C",
+"base": "great cardiac vein",
+"size": 373884
+},
+"FMA76751": {
+"name": "set of posterior veins of left ventricle",
+"kind": "other",
+"side": "L",
+"base": "set of posterior veins of ventricle",
+"size": 215984
+},
+"FMA4713": {
+"name": "middle cardiac vein",
+"kind": "other",
+"side": "C",
+"base": "middle cardiac vein",
+"size": 216384
+},
+"FMA71567": {
+"name": "set of anterior cardiac veins",
+"kind": "other",
+"side": "C",
+"base": "set of anterior cardiac veins",
+"size": 285684
+},
+"FMA4720": {
+"name": "superior vena cava",
+"kind": "other",
+"side": "C",
+"base": "superior vena cava",
+"size": 76684
+},
+"FMA10951": {
+"name": "inferior vena cava",
+"kind": "other",
+"side": "C",
+"base": "inferior vena cava",
+"size": 384384
+},
+"FMA14332": {
+"name": "superior mesenteric vein",
+"kind": "other",
+"side": "C",
+"base": "superior mesenteric vein",
+"size": 10184
+},
+"FMA14331": {
+"name": "splenic vein",
+"kind": "other",
+"side": "C",
+"base": "splenic vein",
+"size": 67684
+},
+"FMA7196": {
+"name": "spleen",
+"kind": "other",
+"side": "C",
+"base": "spleen",
+"size": 450884
+},
+"FMA78497": {
+"name": "central canal of spinal cord",
+"kind": "other",
+"side": "C",
+"base": "central canal of spinal cord",
+"size": 158184
+},
+"FMA62004": {
+"name": "medulla oblongata",
+"kind": "other",
+"side": "C",
+"base": "medulla oblongata",
+"size": 2638084
+},
+"FMA67943": {
+"name": "pons",
+"kind": "other",
+"side": "C",
+"base": "pons",
+"size": 4503684
+},
+"FMA78469": {
+"name": "fourth ventricle",
+"kind": "other",
+"side": "C",
+"base": "fourth ventricle",
+"size": 1506784
+},
+"FMA83740": {
+"name": "interpeduncular fossa",
+"kind": "other",
+"side": "C",
+"base": "interpeduncular fossa",
+"size": 21384
+},
+"FMA62394": {
+"name": "peduncle of midbrain",
+"kind": "other",
+"side": "C",
+"base": "peduncle of midbrain",
+"size": 2341784
+},
+"FMA78467": {
+"name": "cerebral aqueduct",
+"kind": "other",
+"side": "C",
+"base": "cerebral aqueduct",
+"size": 112684
+},
+"FMA67944": {
+"name": "cerebellum",
+"kind": "other",
+"side": "C",
+"base": "cerebellum",
+"size": 11925384
+},
+"FMA62032": {
+"name": "habenula",
+"kind": "other",
+"side": "C",
+"base": "habenula",
+"size": 19284
+},
+"FMA74877": {
+"name": "mammillary body",
+"kind": "other",
+"side": "C",
+"base": "mammillary body",
+"size": 83384
+},
+"FMA62045": {
+"name": "optic chiasm",
+"kind": "other",
+"side": "C",
+"base": "optic chiasm",
+"size": 387684
+},
+"FMA62327": {
+"name": "tuber cinereum",
+"kind": "other",
+"side": "C",
+"base": "tuber cinereum",
+"size": 348784
+},
+"FMA78454": {
+"name": "third ventricle",
+"kind": "other",
+"side": "C",
+"base": "third ventricle",
+"size": 840484
+},
+"FMA75351": {
+"name": "interventricular foramen",
+"kind": "other",
+"side": "C",
+"base": "interventricular foramen",
+"size": 232184
+},
+"FMA62072": {
+"name": "posterior commissure",
+"kind": "other",
+"side": "C",
+"base": "posterior commissure",
+"size": 189384
+},
+"FMA61975": {
+"name": "lamina terminalis",
+"kind": "other",
+"side": "C",
+"base": "lamina terminalis",
+"size": 122484
+},
+"FMA61961": {
+"name": "anterior commissure",
+"kind": "other",
+"side": "C",
+"base": "anterior commissure",
+"size": 184584
+},
+"FMA86464": {
+"name": "corpus callosum",
+"kind": "other",
+"side": "C",
+"base": "corpus callosum",
+"size": 6627684
+},
+"FMA61970": {
+"name": "commissure of fornix of forebrain",
+"kind": "other",
+"side": "C",
+"base": "commissure of fornix of forebrain",
+"size": 2308284
+},
+"FMA61844": {
+"name": "septum pellucidum",
+"kind": "other",
+"side": "C",
+"base": "septum pellucidum",
+"size": 1250684
+},
+"FMA12513": {
+"name": "eyeball",
+"kind": "other",
+"side": "C",
+"base": "eyeball",
+"size": 816584
+},
+"FMA7163": {
+"name": "skin",
+"kind": "other",
+"side": "C",
+"base": "skin",
+"size": 79324984
+},
+"FMA70751": {
+"name": "set of head hairs",
+"kind": "other",
+"side": "C",
+"base": "set of head hairs",
+"size": 4526384
+},
+"FMA71098": {
+"name": "set of eyebrows",
+"kind": "other",
+"side": "C",
+"base": "set of eyebrows",
+"size": 140984
+},
+"FMA70754": {
+"name": "set of pubic hairs",
+"kind": "other",
+"side": "C",
+"base": "set of pubic hairs",
+"size": 1408284
+},
+"BP24": {
+"name": "left costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "costal cartilage",
+"size": 947184
+},
+"BP28": {
+"name": "right costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "costal cartilage",
+"size": 957884
+},
+"BP44": {
+"name": "humeral head of left extensor carpi ulnaris",
+"kind": "muscle",
+"side": "L",
+"base": "humeral head of extensor carpi ulnaris",
+"size": 1585084
+},
+"BP45": {
+"name": "humeral head of right extensor carpi ulnaris",
+"kind": "muscle",
+"side": "R",
+"base": "humeral head of extensor carpi ulnaris",
+"size": 1582284
+},
+"BP46": {
+"name": "ulnar head of left extensor carpi ulnaris",
+"kind": "muscle",
+"side": "L",
+"base": "ulnar head of extensor carpi ulnaris",
+"size": 871284
+},
+"BP47": {
+"name": "ulnar head of right extensor carpi ulnaris",
+"kind": "muscle",
+"side": "R",
+"base": "ulnar head of extensor carpi ulnaris",
+"size": 860484
+},
+"BP49": {
+"name": "left superior parietal lobule precuneus",
+"kind": "other",
+"side": "L",
+"base": "superior parietal lobule precuneus",
+"size": 995384
+},
+"BP50": {
+"name": "right superior parietal lobule precuneus",
+"kind": "other",
+"side": "R",
+"base": "superior parietal lobule precuneus",
+"size": 996384
+},
+"BP51": {
+"name": "orbital gyri straight gyrus",
+"kind": "other",
+"side": "C",
+"base": "orbital gyri straight gyrus",
+"size": 1069484
+},
+"FMA10014": {
+"name": "ninth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "ninth thoracic vertebra",
+"size": 564384
+},
+"FMA10037": {
+"name": "tenth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "tenth thoracic vertebra",
+"size": 596484
+},
+"FMA10059": {
+"name": "eleventh thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "eleventh thoracic vertebra",
+"size": 282684
+},
+"FMA10081": {
+"name": "twelfth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "twelfth thoracic vertebra",
+"size": 301984
+},
+"FMA10458": {
+"name": "intervertebral disk of first thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of first thoracic vertebra",
+"size": 214084
+},
+"FMA12521": {
+"name": "third cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "third cervical vertebra",
+"size": 263984
+},
+"FMA12522": {
+"name": "fourth cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "fourth cervical vertebra",
+"size": 211284
+},
+"FMA12523": {
+"name": "fifth cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "fifth cervical vertebra",
+"size": 237784
+},
+"FMA12524": {
+"name": "sixth cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "sixth cervical vertebra",
+"size": 317584
+},
+"FMA13072": {
+"name": "first lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "first lumbar vertebra",
+"size": 647384
+},
+"FMA13073": {
+"name": "second lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "second lumbar vertebra",
+"size": 347384
+},
+"FMA13074": {
+"name": "third lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "third lumbar vertebra",
+"size": 737584
+},
+"FMA13075": {
+"name": "fourth lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "fourth lumbar vertebra",
+"size": 771384
+},
+"FMA13076": {
+"name": "fifth lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "fifth lumbar vertebra",
+"size": 864184
+},
+"FMA13322": {
+"name": "right clavicle",
+"kind": "bone",
+"side": "R",
+"base": "clavicle",
+"size": 255684
+},
+"FMA13323": {
+"name": "left clavicle",
+"kind": "bone",
+"side": "L",
+"base": "clavicle",
+"size": 257084
+},
+"FMA13336": {
+"name": "right external oblique",
+"kind": "muscle",
+"side": "R",
+"base": "external oblique",
+"size": 27464784
+},
+"FMA13337": {
+"name": "left external oblique",
+"kind": "muscle",
+"side": "L",
+"base": "external oblique",
+"size": 27318584
+},
+"FMA13346": {
+"name": "right sternohyoid",
+"kind": "muscle",
+"side": "R",
+"base": "sternohyoid",
+"size": 697384
+},
+"FMA13347": {
+"name": "left sternohyoid",
+"kind": "muscle",
+"side": "L",
+"base": "sternohyoid",
+"size": 688284
+},
+"FMA13348": {
+"name": "right omohyoid",
+"kind": "muscle",
+"side": "R",
+"base": "omohyoid",
+"size": 1354884
+},
+"FMA13349": {
+"name": "left omohyoid",
+"kind": "muscle",
+"side": "L",
+"base": "omohyoid",
+"size": 1348084
+},
+"FMA13350": {
+"name": "right sternothyroid",
+"kind": "muscle",
+"side": "R",
+"base": "sternothyroid",
+"size": 555284
+},
+"FMA13351": {
+"name": "left sternothyroid",
+"kind": "muscle",
+"side": "L",
+"base": "sternothyroid",
+"size": 545984
+},
+"FMA13352": {
+"name": "right thyrohyoid",
+"kind": "muscle",
+"side": "R",
+"base": "thyrohyoid",
+"size": 364484
+},
+"FMA13353": {
+"name": "left thyrohyoid",
+"kind": "muscle",
+"side": "L",
+"base": "thyrohyoid",
+"size": 362284
+},
+"FMA13358": {
+"name": "right latissimus dorsi",
+"kind": "muscle",
+"side": "R",
+"base": "latissimus dorsi",
+"size": 11398984
+},
+"FMA13359": {
+"name": "left latissimus dorsi",
+"kind": "muscle",
+"side": "L",
+"base": "latissimus dorsi",
+"size": 11369584
+},
+"FMA13375": {
+"name": "right pectoralis minor",
+"kind": "muscle",
+"side": "R",
+"base": "pectoralis minor",
+"size": 2268084
+},
+"FMA13376": {
+"name": "left pectoralis minor",
+"kind": "muscle",
+"side": "L",
+"base": "pectoralis minor",
+"size": 2239984
+},
+"FMA13377": {
+"name": "right rectus abdominis",
+"kind": "muscle",
+"side": "R",
+"base": "rectus abdominis",
+"size": 9560384
+},
+"FMA13378": {
+"name": "left rectus abdominis",
+"kind": "muscle",
+"side": "L",
+"base": "rectus abdominis",
+"size": 9443184
+},
+"FMA13381": {
+"name": "right rhomboid major",
+"kind": "muscle",
+"side": "R",
+"base": "rhomboid major",
+"size": 2412784
+},
+"FMA13382": {
+"name": "left rhomboid major",
+"kind": "muscle",
+"side": "L",
+"base": "rhomboid major",
+"size": 2419984
+},
+"FMA13383": {
+"name": "right rhomboid minor",
+"kind": "muscle",
+"side": "R",
+"base": "rhomboid minor",
+"size": 754684
+},
+"FMA13384": {
+"name": "left rhomboid minor",
+"kind": "muscle",
+"side": "L",
+"base": "rhomboid minor",
+"size": 753184
+},
+"FMA13388": {
+"name": "right scalenus posterior",
+"kind": "muscle",
+"side": "R",
+"base": "scalenus posterior",
+"size": 667484
+},
+"FMA13389": {
+"name": "left scalenus posterior",
+"kind": "muscle",
+"side": "L",
+"base": "scalenus posterior",
+"size": 658784
+},
+"FMA13390": {
+"name": "right scalenus medius",
+"kind": "muscle",
+"side": "R",
+"base": "scalenus medius",
+"size": 1061984
+},
+"FMA13391": {
+"name": "left scalenus medius",
+"kind": "muscle",
+"side": "L",
+"base": "scalenus medius",
+"size": 1060184
+},
+"FMA13392": {
+"name": "right scalenus anterior",
+"kind": "muscle",
+"side": "R",
+"base": "scalenus anterior",
+"size": 699284
+},
+"FMA13393": {
+"name": "left scalenus anterior",
+"kind": "muscle",
+"side": "L",
+"base": "scalenus anterior",
+"size": 685084
+},
+"FMA13395": {
+"name": "right scapula",
+"kind": "bone",
+"side": "R",
+"base": "scapula",
+"size": 5662884
+},
+"FMA13396": {
+"name": "left scapula",
+"kind": "bone",
+"side": "L",
+"base": "scapula",
+"size": 6090884
+},
+"FMA13398": {
+"name": "right serratus anterior",
+"kind": "muscle",
+"side": "R",
+"base": "serratus anterior",
+"size": 12432084
+},
+"FMA13399": {
+"name": "left serratus anterior",
+"kind": "muscle",
+"side": "L",
+"base": "serratus anterior",
+"size": 12411784
+},
+"FMA13403": {
+"name": "right serratus posterior superior",
+"kind": "muscle",
+"side": "R",
+"base": "serratus posterior superior",
+"size": 2946984
+},
+"FMA13404": {
+"name": "left serratus posterior superior",
+"kind": "muscle",
+"side": "L",
+"base": "serratus posterior superior",
+"size": 2915484
+},
+"FMA13405": {
+"name": "right serratus posterior inferior",
+"kind": "muscle",
+"side": "R",
+"base": "serratus posterior inferior",
+"size": 4516884
+},
+"FMA13406": {
+"name": "left serratus posterior inferior",
+"kind": "muscle",
+"side": "L",
+"base": "serratus posterior inferior",
+"size": 4500784
+},
+"FMA13408": {
+"name": "right sternocleidomastoid",
+"kind": "muscle",
+"side": "R",
+"base": "sternocleidomastoid",
+"size": 2565784
+},
+"FMA13409": {
+"name": "left sternocleidomastoid",
+"kind": "muscle",
+"side": "L",
+"base": "sternocleidomastoid",
+"size": 2514584
+},
+"FMA13411": {
+"name": "left subclavius",
+"kind": "muscle",
+"side": "L",
+"base": "subclavius",
+"size": 407784
+},
+"FMA13412": {
+"name": "right subclavius",
+"kind": "muscle",
+"side": "R",
+"base": "subclavius",
+"size": 407784
+},
+"FMA13414": {
+"name": "right subscapularis",
+"kind": "muscle",
+"side": "R",
+"base": "subscapularis",
+"size": 1531084
+},
+"FMA13415": {
+"name": "left subscapularis",
+"kind": "muscle",
+"side": "L",
+"base": "subscapularis",
+"size": 1533584
+},
+"FMA13495": {
+"name": "intervertebral disk of second thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of second thoracic vertebra",
+"size": 248584
+},
+"FMA13500": {
+"name": "intervertebral disk of third thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of third thoracic vertebra",
+"size": 258784
+},
+"FMA13501": {
+"name": "intervertebral disk of fourth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of fourth thoracic vertebra",
+"size": 315484
+},
+"FMA13502": {
+"name": "intervertebral disk of fifth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of fifth thoracic vertebra",
+"size": 366884
+},
+"FMA13503": {
+"name": "intervertebral disk of sixth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of sixth thoracic vertebra",
+"size": 452984
+},
+"FMA13504": {
+"name": "intervertebral disk of seventh thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of seventh thoracic vertebra",
+"size": 519384
+},
+"FMA13505": {
+"name": "intervertebral disk of eighth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of eighth thoracic vertebra",
+"size": 510184
+},
+"FMA13506": {
+"name": "intervertebral disk of ninth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of ninth thoracic vertebra",
+"size": 252084
+},
+"FMA13507": {
+"name": "intervertebral disk of tenth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of tenth thoracic vertebra",
+"size": 576784
+},
+"FMA13508": {
+"name": "intervertebral disk of eleventh thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of eleventh thoracic vertebra",
+"size": 714084
+},
+"FMA13509": {
+"name": "intervertebral disk of twelfth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of twelfth thoracic vertebra",
+"size": 726984
+},
+"FMA13892": {
+"name": "right internal oblique",
+"kind": "muscle",
+"side": "R",
+"base": "internal oblique",
+"size": 13320684
+},
+"FMA13893": {
+"name": "left internal oblique",
+"kind": "muscle",
+"side": "L",
+"base": "internal oblique",
+"size": 13209184
+},
+"FMA13896": {
+"name": "intervertebral disk of third cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of third cervical vertebra",
+"size": 151684
+},
+"FMA13897": {
+"name": "intervertebral disk of fourth cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of fourth cervical vertebra",
+"size": 175884
+},
+"FMA13898": {
+"name": "intervertebral disk of fifth cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of fifth cervical vertebra",
+"size": 172284
+},
+"FMA13899": {
+"name": "intervertebral disk of sixth cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of sixth cervical vertebra",
+"size": 161984
+},
+"FMA13900": {
+"name": "intervertebral disk of seventh cervical vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of seventh cervical vertebra",
+"size": 195684
+},
+"FMA14335": {
+"name": "right renal vein",
+"kind": "other",
+"side": "R",
+"base": "renal vein",
+"size": 76984
+},
+"FMA14336": {
+"name": "left renal vein",
+"kind": "other",
+"side": "L",
+"base": "renal vein",
+"size": 28784
+},
+"FMA14543nsn": {
+"name": "colon, nsn",
+"kind": "other",
+"side": "C",
+"base": "colon, nsn",
+"size": 3475884
+},
+"FMA14752": {
+"name": "right renal artery",
+"kind": "other",
+"side": "R",
+"base": "renal artery",
+"size": 87784
+},
+"FMA14753": {
+"name": "left renal artery",
+"kind": "other",
+"side": "L",
+"base": "renal artery",
+"size": 65484
+},
+"FMA14765": {
+"name": "right common iliac artery",
+"kind": "other",
+"side": "R",
+"base": "common iliac artery",
+"size": 44884
+},
+"FMA14766": {
+"name": "left common iliac artery",
+"kind": "other",
+"side": "L",
+"base": "common iliac artery",
+"size": 40384
+},
+"FMA15571": {
+"name": "right ureter",
+"kind": "other",
+"side": "R",
+"base": "ureter",
+"size": 110584
+},
+"FMA15572": {
+"name": "left ureter",
+"kind": "other",
+"side": "L",
+"base": "ureter",
+"size": 111384
+},
+"FMA15629": {
+"name": "right adrenal gland",
+"kind": "other",
+"side": "R",
+"base": "adrenal gland",
+"size": 493784
+},
+"FMA15630": {
+"name": "left adrenal gland",
+"kind": "other",
+"side": "L",
+"base": "adrenal gland",
+"size": 989484
+},
+"FMA16033": {
+"name": "intervertebral disk of first lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of first lumbar vertebra",
+"size": 707684
+},
+"FMA16034": {
+"name": "intervertebral disk of second lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of second lumbar vertebra",
+"size": 680184
+},
+"FMA16035": {
+"name": "intervertebral disk of third lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of third lumbar vertebra",
+"size": 713584
+},
+"FMA16036": {
+"name": "intervertebral disk of fourth lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of fourth lumbar vertebra",
+"size": 724584
+},
+"FMA16037": {
+"name": "intervertebral disk of fifth lumbar vertebra",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of fifth lumbar vertebra",
+"size": 808984
+},
+"FMA16586": {
+"name": "right hip bone",
+"kind": "bone",
+"side": "R",
+"base": "hip bone",
+"size": 485884
+},
+"FMA16587": {
+"name": "left hip bone",
+"kind": "bone",
+"side": "L",
+"base": "hip bone",
+"size": 473584
+},
+"FMA18256": {
+"name": "right epididymis",
+"kind": "other",
+"side": "R",
+"base": "epididymis",
+"size": 6084
+},
+"FMA18257": {
+"name": "left epididymis",
+"kind": "other",
+"side": "L",
+"base": "epididymis",
+"size": 24284
+},
+"FMA18806": {
+"name": "right external iliac artery",
+"kind": "other",
+"side": "R",
+"base": "external iliac artery",
+"size": 67284
+},
+"FMA18807": {
+"name": "left external iliac artery",
+"kind": "other",
+"side": "L",
+"base": "external iliac artery",
+"size": 64484
+},
+"FMA18809": {
+"name": "right internal iliac artery",
+"kind": "other",
+"side": "R",
+"base": "internal iliac artery",
+"size": 22984
+},
+"FMA18810": {
+"name": "left internal iliac artery",
+"kind": "other",
+"side": "L",
+"base": "internal iliac artery",
+"size": 25084
+},
+"FMA18885": {
+"name": "right external iliac vein",
+"kind": "other",
+"side": "R",
+"base": "external iliac vein",
+"size": 66384
+},
+"FMA18886": {
+"name": "left external iliac vein",
+"kind": "other",
+"side": "L",
+"base": "external iliac vein",
+"size": 72484
+},
+"FMA18887": {
+"name": "right internal iliac vein",
+"kind": "other",
+"side": "R",
+"base": "internal iliac vein",
+"size": 26584
+},
+"FMA18888": {
+"name": "left internal iliac vein",
+"kind": "other",
+"side": "L",
+"base": "internal iliac vein",
+"size": 23984
+},
+"FMA19235": {
+"name": "right deferent duct",
+"kind": "other",
+"side": "R",
+"base": "deferent duct",
+"size": 75284
+},
+"FMA19236": {
+"name": "left deferent duct",
+"kind": "other",
+"side": "L",
+"base": "deferent duct",
+"size": 74984
+},
+"FMA19387": {
+"name": "right seminal vesicle",
+"kind": "other",
+"side": "R",
+"base": "seminal vesicle",
+"size": 54284
+},
+"FMA19388": {
+"name": "left seminal vesicle",
+"kind": "other",
+"side": "L",
+"base": "seminal vesicle",
+"size": 54084
+},
+"FMA19617nsn": {
+"name": "corpus spongiosum of penis, nsn",
+"kind": "other",
+"side": "C",
+"base": "corpus spongiosum of penis, nsn",
+"size": 110184
+},
+"FMA19667": {
+"name": "urethra",
+"kind": "other",
+"side": "C",
+"base": "urethra",
+"size": 59384
+},
+"FMA21387": {
+"name": "right common iliac vein",
+"kind": "other",
+"side": "R",
+"base": "common iliac vein",
+"size": 44384
+},
+"FMA21388": {
+"name": "left common iliac vein",
+"kind": "other",
+"side": "L",
+"base": "common iliac vein",
+"size": 49684
+},
+"FMA21964": {
+"name": "right inguinal ligament",
+"kind": "muscle",
+"side": "R",
+"base": "inguinal ligament",
+"size": 603484
+},
+"FMA21965": {
+"name": "left inguinal ligament",
+"kind": "muscle",
+"side": "L",
+"base": "inguinal ligament",
+"size": 585284
+},
+"FMA22322": {
+"name": "right iliacus",
+"kind": "muscle",
+"side": "R",
+"base": "iliacus",
+"size": 2220184
+},
+"FMA22323": {
+"name": "left iliacus",
+"kind": "muscle",
+"side": "L",
+"base": "iliacus",
+"size": 2215384
+},
+"FMA22324": {
+"name": "right obturator internus",
+"kind": "muscle",
+"side": "R",
+"base": "obturator internus",
+"size": 1888584
+},
+"FMA22325": {
+"name": "left obturator internus",
+"kind": "muscle",
+"side": "L",
+"base": "obturator internus",
+"size": 1771284
+},
+"FMA22326": {
+"name": "right obturator externus",
+"kind": "muscle",
+"side": "R",
+"base": "obturator externus",
+"size": 588084
+},
+"FMA22327": {
+"name": "left obturator externus",
+"kind": "muscle",
+"side": "L",
+"base": "obturator externus",
+"size": 578184
+},
+"FMA22328": {
+"name": "right gluteus maximus",
+"kind": "muscle",
+"side": "R",
+"base": "gluteus maximus",
+"size": 1711384
+},
+"FMA22329": {
+"name": "left gluteus maximus",
+"kind": "muscle",
+"side": "L",
+"base": "gluteus maximus",
+"size": 1650484
+},
+"FMA22330": {
+"name": "right gluteus medius",
+"kind": "muscle",
+"side": "R",
+"base": "gluteus medius",
+"size": 2590984
+},
+"FMA22331": {
+"name": "left gluteus medius",
+"kind": "muscle",
+"side": "L",
+"base": "gluteus medius",
+"size": 2531584
+},
+"FMA22332": {
+"name": "right gluteus minimus",
+"kind": "muscle",
+"side": "R",
+"base": "gluteus minimus",
+"size": 3155584
+},
+"FMA22333": {
+"name": "left gluteus minimus",
+"kind": "muscle",
+"side": "L",
+"base": "gluteus minimus",
+"size": 3134384
+},
+"FMA22334": {
+"name": "right gemellus superior",
+"kind": "muscle",
+"side": "R",
+"base": "gemellus superior",
+"size": 225684
+},
+"FMA22335": {
+"name": "left gemellus superior",
+"kind": "muscle",
+"side": "L",
+"base": "gemellus superior",
+"size": 215384
+},
+"FMA22336": {
+"name": "right gemellus inferior",
+"kind": "muscle",
+"side": "R",
+"base": "gemellus inferior",
+"size": 488984
+},
+"FMA22337": {
+"name": "left gemellus inferior",
+"kind": "muscle",
+"side": "L",
+"base": "gemellus inferior",
+"size": 471284
+},
+"FMA22338": {
+"name": "right quadratus femoris",
+"kind": "muscle",
+"side": "R",
+"base": "quadratus femoris",
+"size": 838584
+},
+"FMA22339": {
+"name": "left quadratus femoris",
+"kind": "muscle",
+"side": "L",
+"base": "quadratus femoris",
+"size": 838084
+},
+"FMA22340": {
+"name": "right piriformis",
+"kind": "muscle",
+"side": "R",
+"base": "piriformis",
+"size": 755084
+},
+"FMA22341": {
+"name": "left piriformis",
+"kind": "muscle",
+"side": "L",
+"base": "piriformis",
+"size": 712484
+},
+"FMA22342": {
+"name": "right psoas major",
+"kind": "muscle",
+"side": "R",
+"base": "psoas major",
+"size": 2830784
+},
+"FMA22343": {
+"name": "left psoas major",
+"kind": "muscle",
+"side": "L",
+"base": "psoas major",
+"size": 2788384
+},
+"FMA22344": {
+"name": "right transversus abdominis",
+"kind": "muscle",
+"side": "R",
+"base": "transversus abdominis",
+"size": 15663584
+},
+"FMA22345": {
+"name": "left transversus abdominis",
+"kind": "muscle",
+"side": "L",
+"base": "transversus abdominis",
+"size": 15643184
+},
+"FMA22346": {
+"name": "right pyramidalis",
+"kind": "muscle",
+"side": "R",
+"base": "pyramidalis",
+"size": 560784
+},
+"FMA22347": {
+"name": "left pyramidalis",
+"kind": "muscle",
+"side": "L",
+"base": "pyramidalis",
+"size": 552284
+},
+"FMA22348": {
+"name": "right quadratus lumborum",
+"kind": "muscle",
+"side": "R",
+"base": "quadratus lumborum",
+"size": 1294884
+},
+"FMA22349": {
+"name": "left quadratus lumborum",
+"kind": "muscle",
+"side": "L",
+"base": "quadratus lumborum",
+"size": 1280184
+},
+"FMA22354": {
+"name": "right sartorius",
+"kind": "muscle",
+"side": "R",
+"base": "sartorius",
+"size": 2620984
+},
+"FMA22355": {
+"name": "left sartorius",
+"kind": "muscle",
+"side": "L",
+"base": "sartorius",
+"size": 2573784
+},
+"FMA22358": {
+"name": "right semitendinosus",
+"kind": "muscle",
+"side": "R",
+"base": "semitendinosus",
+"size": 2177584
+},
+"FMA22359": {
+"name": "left semitendinosus",
+"kind": "muscle",
+"side": "L",
+"base": "semitendinosus",
+"size": 2126984
+},
+"FMA22425": {
+"name": "right tensor fasciae latae",
+"kind": "muscle",
+"side": "R",
+"base": "tensor fasciae latae",
+"size": 934484
+},
+"FMA22426": {
+"name": "left tensor fasciae latae",
+"kind": "muscle",
+"side": "L",
+"base": "tensor fasciae latae",
+"size": 925784
+},
+"FMA22448": {
+"name": "right semimembranosus",
+"kind": "muscle",
+"side": "R",
+"base": "semimembranosus",
+"size": 3728284
+},
+"FMA22449": {
+"name": "left semimembranosus",
+"kind": "muscle",
+"side": "L",
+"base": "semimembranosus",
+"size": 3606384
+},
+"FMA22450": {
+"name": "right pectineus",
+"kind": "muscle",
+"side": "R",
+"base": "pectineus",
+"size": 1007584
+},
+"FMA22451": {
+"name": "left pectineus",
+"kind": "muscle",
+"side": "L",
+"base": "pectineus",
+"size": 1030784
+},
+"FMA22452": {
+"name": "right adductor brevis",
+"kind": "other",
+"side": "R",
+"base": "adductor brevis",
+"size": 1080484
+},
+"FMA22454": {
+"name": "left adductor brevis",
+"kind": "other",
+"side": "L",
+"base": "adductor brevis",
+"size": 1086384
+},
+"FMA22456": {
+"name": "right adductor longus",
+"kind": "other",
+"side": "R",
+"base": "adductor longus",
+"size": 1857184
+},
+"FMA22457": {
+"name": "left adductor longus",
+"kind": "other",
+"side": "L",
+"base": "adductor longus",
+"size": 1893984
+},
+"FMA22459": {
+"name": "right adductor magnus",
+"kind": "other",
+"side": "R",
+"base": "adductor magnus",
+"size": 4098784
+},
+"FMA22460": {
+"name": "left adductor magnus",
+"kind": "other",
+"side": "L",
+"base": "adductor magnus",
+"size": 4124584
+},
+"FMA22544": {
+"name": "right tibialis anterior",
+"kind": "muscle",
+"side": "R",
+"base": "tibialis anterior",
+"size": 1795784
+},
+"FMA22545": {
+"name": "left tibialis anterior",
+"kind": "muscle",
+"side": "L",
+"base": "tibialis anterior",
+"size": 1726184
+},
+"FMA22546": {
+"name": "right extensor hallucis longus",
+"kind": "muscle",
+"side": "R",
+"base": "extensor hallucis longus",
+"size": 1190184
+},
+"FMA22547": {
+"name": "left extensor hallucis longus",
+"kind": "muscle",
+"side": "L",
+"base": "extensor hallucis longus",
+"size": 1157384
+},
+"FMA22548": {
+"name": "right extensor digitorum longus",
+"kind": "muscle",
+"side": "R",
+"base": "extensor digitorum longus",
+"size": 3128784
+},
+"FMA22549": {
+"name": "left extensor digitorum longus",
+"kind": "muscle",
+"side": "L",
+"base": "extensor digitorum longus",
+"size": 3100484
+},
+"FMA22550": {
+"name": "right fibularis tertius",
+"kind": "muscle",
+"side": "R",
+"base": "fibularis tertius",
+"size": 316284
+},
+"FMA22551": {
+"name": "left fibularis tertius",
+"kind": "muscle",
+"side": "L",
+"base": "fibularis tertius",
+"size": 305884
+},
+"FMA22552": {
+"name": "right fibularis longus",
+"kind": "muscle",
+"side": "R",
+"base": "fibularis longus",
+"size": 2910784
+},
+"FMA22553": {
+"name": "left fibularis longus",
+"kind": "muscle",
+"side": "L",
+"base": "fibularis longus",
+"size": 2915784
+},
+"FMA22554": {
+"name": "right fibularis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "fibularis brevis",
+"size": 1786784
+},
+"FMA22555": {
+"name": "left fibularis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "fibularis brevis",
+"size": 1790784
+},
+"FMA22558": {
+"name": "right soleus",
+"kind": "muscle",
+"side": "R",
+"base": "soleus",
+"size": 3428384
+},
+"FMA22559": {
+"name": "left soleus",
+"kind": "muscle",
+"side": "L",
+"base": "soleus",
+"size": 3468484
+},
+"FMA22560": {
+"name": "right plantaris",
+"kind": "muscle",
+"side": "R",
+"base": "plantaris",
+"size": 2351084
+},
+"FMA22561": {
+"name": "left plantaris",
+"kind": "muscle",
+"side": "L",
+"base": "plantaris",
+"size": 2335184
+},
+"FMA22591": {
+"name": "right popliteus",
+"kind": "muscle",
+"side": "R",
+"base": "popliteus",
+"size": 572384
+},
+"FMA22592": {
+"name": "left popliteus",
+"kind": "muscle",
+"side": "L",
+"base": "popliteus",
+"size": 558984
+},
+"FMA22726": {
+"name": "right splenius cervicis",
+"kind": "muscle",
+"side": "R",
+"base": "splenius cervicis",
+"size": 2227284
+},
+"FMA22727": {
+"name": "left splenius cervicis",
+"kind": "muscle",
+"side": "L",
+"base": "splenius cervicis",
+"size": 2227284
+},
+"FMA22728": {
+"name": "right splenius capitis",
+"kind": "muscle",
+"side": "R",
+"base": "splenius capitis",
+"size": 2663084
+},
+"FMA22729": {
+"name": "left splenius capitis",
+"kind": "muscle",
+"side": "L",
+"base": "splenius capitis",
+"size": 2662184
+},
+"FMA22740": {
+"name": "right iliocostalis lumborum",
+"kind": "muscle",
+"side": "R",
+"base": "iliocostalis lumborum",
+"size": 5377484
+},
+"FMA22741": {
+"name": "left iliocostalis lumborum",
+"kind": "muscle",
+"side": "L",
+"base": "iliocostalis lumborum",
+"size": 5484684
+},
+"FMA22742": {
+"name": "right iliocostalis thoracis",
+"kind": "muscle",
+"side": "R",
+"base": "iliocostalis thoracis",
+"size": 2896184
+},
+"FMA22743": {
+"name": "left iliocostalis thoracis",
+"kind": "muscle",
+"side": "L",
+"base": "iliocostalis thoracis",
+"size": 2812884
+},
+"FMA22744": {
+"name": "right iliocostalis cervicis",
+"kind": "muscle",
+"side": "R",
+"base": "iliocostalis cervicis",
+"size": 1036484
+},
+"FMA22745": {
+"name": "left iliocostalis cervicis",
+"kind": "muscle",
+"side": "L",
+"base": "iliocostalis cervicis",
+"size": 992484
+},
+"FMA22751": {
+"name": "right longissimus thoracis",
+"kind": "muscle",
+"side": "R",
+"base": "longissimus thoracis",
+"size": 5358084
+},
+"FMA22753": {
+"name": "left longissimus thoracis",
+"kind": "muscle",
+"side": "L",
+"base": "longissimus thoracis",
+"size": 5259884
+},
+"FMA22754": {
+"name": "right longissimus capitis",
+"kind": "muscle",
+"side": "R",
+"base": "longissimus capitis",
+"size": 792684
+},
+"FMA22756": {
+"name": "left longissimus capitis",
+"kind": "muscle",
+"side": "L",
+"base": "longissimus capitis",
+"size": 768784
+},
+"FMA22757": {
+"name": "right longissimus cervicis",
+"kind": "muscle",
+"side": "R",
+"base": "longissimus cervicis",
+"size": 938284
+},
+"FMA22758": {
+"name": "left longissimus cervicis",
+"kind": "muscle",
+"side": "L",
+"base": "longissimus cervicis",
+"size": 903584
+},
+"FMA22779": {
+"name": "right spinalis thoracis",
+"kind": "muscle",
+"side": "R",
+"base": "spinalis thoracis",
+"size": 2799084
+},
+"FMA22780": {
+"name": "left spinalis thoracis",
+"kind": "muscle",
+"side": "L",
+"base": "spinalis thoracis",
+"size": 2700484
+},
+"FMA22781": {
+"name": "right spinalis cervicis",
+"kind": "muscle",
+"side": "R",
+"base": "spinalis cervicis",
+"size": 300884
+},
+"FMA22782": {
+"name": "left spinalis cervicis",
+"kind": "muscle",
+"side": "L",
+"base": "spinalis cervicis",
+"size": 296684
+},
+"FMA22872": {
+"name": "right semispinalis thoracis",
+"kind": "muscle",
+"side": "R",
+"base": "semispinalis thoracis",
+"size": 2529984
+},
+"FMA22873": {
+"name": "left semispinalis thoracis",
+"kind": "muscle",
+"side": "L",
+"base": "semispinalis thoracis",
+"size": 2425284
+},
+"FMA22874": {
+"name": "right semispinalis cervicis",
+"kind": "muscle",
+"side": "R",
+"base": "semispinalis cervicis",
+"size": 1308384
+},
+"FMA22875": {
+"name": "left semispinalis cervicis",
+"kind": "muscle",
+"side": "L",
+"base": "semispinalis cervicis",
+"size": 1257884
+},
+"FMA22876": {
+"name": "right semispinalis capitis",
+"kind": "muscle",
+"side": "R",
+"base": "semispinalis capitis",
+"size": 1372784
+},
+"FMA22877": {
+"name": "left semispinalis capitis",
+"kind": "muscle",
+"side": "L",
+"base": "semispinalis capitis",
+"size": 1369184
+},
+"FMA22878": {
+"name": "right multifidus",
+"kind": "muscle",
+"side": "R",
+"base": "multifidus",
+"size": 3699384
+},
+"FMA22879": {
+"name": "left multifidus",
+"kind": "muscle",
+"side": "L",
+"base": "multifidus",
+"size": 3555284
+},
+"FMA23089": {
+"name": "right lumbar rotator",
+"kind": "muscle",
+"side": "R",
+"base": "lumbar rotator",
+"size": 1449584
+},
+"FMA23090": {
+"name": "left lumbar rotator",
+"kind": "muscle",
+"side": "L",
+"base": "lumbar rotator",
+"size": 1294784
+},
+"FMA230986": {
+"name": "middle phalanx of right little toe",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of little toe",
+"size": 14784
+},
+"FMA230988": {
+"name": "middle phalanx of left little toe",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of little toe",
+"size": 15184
+},
+"FMA23130": {
+"name": "right humerus",
+"kind": "bone",
+"side": "R",
+"base": "humerus",
+"size": 813484
+},
+"FMA23131": {
+"name": "left humerus",
+"kind": "bone",
+"side": "L",
+"base": "humerus",
+"size": 824684
+},
+"FMA23464": {
+"name": "right radius",
+"kind": "bone",
+"side": "R",
+"base": "radius",
+"size": 140284
+},
+"FMA23465": {
+"name": "left radius",
+"kind": "bone",
+"side": "L",
+"base": "radius",
+"size": 135784
+},
+"FMA23467": {
+"name": "right ulna",
+"kind": "bone",
+"side": "R",
+"base": "ulna",
+"size": 179684
+},
+"FMA23468": {
+"name": "left ulna",
+"kind": "bone",
+"side": "L",
+"base": "ulna",
+"size": 176984
+},
+"FMA23707": {
+"name": "interosseous membrane of right forearm",
+"kind": "other",
+"side": "R",
+"base": "interosseous membrane of forearm",
+"size": 720784
+},
+"FMA23708": {
+"name": "interosseous membrane of left forearm",
+"kind": "other",
+"side": "L",
+"base": "interosseous membrane of forearm",
+"size": 690484
+},
+"FMA23725": {
+"name": "right trapezoid",
+"kind": "bone",
+"side": "R",
+"base": "trapezoid",
+"size": 30884
+},
+"FMA23938": {
+"name": "middle phalanx of left index finger",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of index finger",
+"size": 56984
+},
+"FMA23940": {
+"name": "middle phalanx of left middle finger",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of middle finger",
+"size": 74884
+},
+"FMA23942": {
+"name": "middle phalanx of left ring finger",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of ring finger",
+"size": 67284
+},
+"FMA23944": {
+"name": "middle phalanx of left little finger",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of little finger",
+"size": 44284
+},
+"FMA23951": {
+"name": "distal phalanx of left thumb",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of thumb",
+"size": 49484
+},
+"FMA23953": {
+"name": "distal phalanx of left index finger",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of index finger",
+"size": 32584
+},
+"FMA23955": {
+"name": "distal phalanx of left middle finger",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of middle finger",
+"size": 31784
+},
+"FMA23957": {
+"name": "distal phalanx of left ring finger",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of ring finger",
+"size": 22484
+},
+"FMA23959": {
+"name": "distal phalanx of left little finger",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of little finger",
+"size": 22784
+},
+"FMA24435": {
+"name": "right scaphoid",
+"kind": "bone",
+"side": "R",
+"base": "scaphoid",
+"size": 53784
+},
+"FMA24436": {
+"name": "left scaphoid",
+"kind": "bone",
+"side": "L",
+"base": "scaphoid",
+"size": 53584
+},
+"FMA24437": {
+"name": "right lunate",
+"kind": "bone",
+"side": "R",
+"base": "lunate",
+"size": 43284
+},
+"FMA24438": {
+"name": "left lunate",
+"kind": "bone",
+"side": "L",
+"base": "lunate",
+"size": 43384
+},
+"FMA24439": {
+"name": "right triquetral",
+"kind": "bone",
+"side": "R",
+"base": "triquetral",
+"size": 35284
+},
+"FMA24440": {
+"name": "left triquetral",
+"kind": "bone",
+"side": "L",
+"base": "triquetral",
+"size": 34984
+},
+"FMA24441": {
+"name": "right pisiform",
+"kind": "bone",
+"side": "R",
+"base": "pisiform",
+"size": 19884
+},
+"FMA24442": {
+"name": "left pisiform",
+"kind": "bone",
+"side": "L",
+"base": "pisiform",
+"size": 19884
+},
+"FMA24443": {
+"name": "right trapezium",
+"kind": "bone",
+"side": "R",
+"base": "trapezium",
+"size": 51384
+},
+"FMA24444": {
+"name": "left trapezium",
+"kind": "bone",
+"side": "L",
+"base": "trapezium",
+"size": 52984
+},
+"FMA24445": {
+"name": "left trapezoid",
+"kind": "bone",
+"side": "L",
+"base": "trapezoid",
+"size": 30684
+},
+"FMA24446": {
+"name": "right capitate",
+"kind": "bone",
+"side": "R",
+"base": "capitate",
+"size": 64284
+},
+"FMA24447": {
+"name": "left capitate",
+"kind": "bone",
+"side": "L",
+"base": "capitate",
+"size": 63984
+},
+"FMA24448": {
+"name": "right hamate",
+"kind": "bone",
+"side": "R",
+"base": "hamate",
+"size": 57584
+},
+"FMA24449": {
+"name": "left hamate",
+"kind": "bone",
+"side": "L",
+"base": "hamate",
+"size": 56584
+},
+"FMA24450": {
+"name": "proximal phalanx of right thumb",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of thumb",
+"size": 68484
+},
+"FMA24451": {
+"name": "proximal phalanx of right index finger",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of index finger",
+"size": 83284
+},
+"FMA24452": {
+"name": "proximal phalanx of right middle finger",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of middle finger",
+"size": 98484
+},
+"FMA24453": {
+"name": "proximal phalanx of right ring finger",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of ring finger",
+"size": 81084
+},
+"FMA24454": {
+"name": "proximal phalanx of right little finger",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of little finger",
+"size": 60484
+},
+"FMA24455": {
+"name": "middle phalanx of right index finger",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of index finger",
+"size": 57084
+},
+"FMA24456": {
+"name": "middle phalanx of right middle finger",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of middle finger",
+"size": 73884
+},
+"FMA24457": {
+"name": "middle phalanx of right ring finger",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of ring finger",
+"size": 67584
+},
+"FMA24458": {
+"name": "middle phalanx of right little finger",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of little finger",
+"size": 45084
+},
+"FMA24459": {
+"name": "distal phalanx of right thumb",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of thumb",
+"size": 52084
+},
+"FMA24460": {
+"name": "distal phalanx of right index finger",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of index finger",
+"size": 32884
+},
+"FMA24461": {
+"name": "distal phalanx of right middle finger",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of middle finger",
+"size": 32084
+},
+"FMA24462": {
+"name": "distal phalanx of right ring finger",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of ring finger",
+"size": 22684
+},
+"FMA24463": {
+"name": "distal phalanx of right little finger",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of little finger",
+"size": 23384
+},
+"FMA24464": {
+"name": "right first metacarpal bone",
+"kind": "bone",
+"side": "R",
+"base": "first metacarpal bone",
+"size": 121784
+},
+"FMA24465": {
+"name": "left first metacarpal bone",
+"kind": "bone",
+"side": "L",
+"base": "first metacarpal bone",
+"size": 124084
+},
+"FMA24466": {
+"name": "right second metacarpal bone",
+"kind": "bone",
+"side": "R",
+"base": "second metacarpal bone",
+"size": 160984
+},
+"FMA24467": {
+"name": "left second metacarpal bone",
+"kind": "bone",
+"side": "L",
+"base": "second metacarpal bone",
+"size": 163284
+},
+"FMA24468": {
+"name": "right third metacarpal bone",
+"kind": "bone",
+"side": "R",
+"base": "third metacarpal bone",
+"size": 150984
+},
+"FMA24469": {
+"name": "left third metacarpal bone",
+"kind": "bone",
+"side": "L",
+"base": "third metacarpal bone",
+"size": 152084
+},
+"FMA24470": {
+"name": "right fourth metacarpal bone",
+"kind": "bone",
+"side": "R",
+"base": "fourth metacarpal bone",
+"size": 115384
+},
+"FMA24471": {
+"name": "left fourth metacarpal bone",
+"kind": "bone",
+"side": "L",
+"base": "fourth metacarpal bone",
+"size": 113584
+},
+"FMA24472": {
+"name": "right fifth metacarpal bone",
+"kind": "bone",
+"side": "R",
+"base": "fifth metacarpal bone",
+"size": 108984
+},
+"FMA24473": {
+"name": "left fifth metacarpal bone",
+"kind": "bone",
+"side": "L",
+"base": "fifth metacarpal bone",
+"size": 107384
+},
+"FMA24474": {
+"name": "right femur",
+"kind": "bone",
+"side": "R",
+"base": "femur",
+"size": 649584
+},
+"FMA24475": {
+"name": "left femur",
+"kind": "bone",
+"side": "L",
+"base": "femur",
+"size": 660184
+},
+"FMA24477": {
+"name": "right tibia",
+"kind": "bone",
+"side": "R",
+"base": "tibia",
+"size": 342584
+},
+"FMA24478": {
+"name": "left tibia",
+"kind": "bone",
+"side": "L",
+"base": "tibia",
+"size": 341184
+},
+"FMA24480": {
+"name": "right fibula",
+"kind": "bone",
+"side": "R",
+"base": "fibula",
+"size": 231184
+},
+"FMA24481": {
+"name": "left fibula",
+"kind": "bone",
+"side": "L",
+"base": "fibula",
+"size": 227284
+},
+"FMA24482": {
+"name": "right talus",
+"kind": "bone",
+"side": "R",
+"base": "talus",
+"size": 298184
+},
+"FMA24483": {
+"name": "left talus",
+"kind": "bone",
+"side": "L",
+"base": "talus",
+"size": 296284
+},
+"FMA24486": {
+"name": "right patella",
+"kind": "bone",
+"side": "R",
+"base": "patella",
+"size": 66784
+},
+"FMA24487": {
+"name": "left patella",
+"kind": "bone",
+"side": "L",
+"base": "patella",
+"size": 66984
+},
+"FMA24497": {
+"name": "right calcaneus",
+"kind": "bone",
+"side": "R",
+"base": "calcaneus",
+"size": 272484
+},
+"FMA24498": {
+"name": "left calcaneus",
+"kind": "bone",
+"side": "L",
+"base": "calcaneus",
+"size": 282684
+},
+"FMA24500": {
+"name": "navicular bone of right foot",
+"kind": "bone",
+"side": "R",
+"base": "navicular bone of foot",
+"size": 151184
+},
+"FMA24501": {
+"name": "navicular bone of left foot",
+"kind": "bone",
+"side": "L",
+"base": "navicular bone of foot",
+"size": 154884
+},
+"FMA24507": {
+"name": "right first metatarsal bone",
+"kind": "bone",
+"side": "R",
+"base": "first metatarsal bone",
+"size": 244384
+},
+"FMA24508": {
+"name": "left first metatarsal bone",
+"kind": "bone",
+"side": "L",
+"base": "first metatarsal bone",
+"size": 243084
+},
+"FMA24509": {
+"name": "right second metatarsal bone",
+"kind": "bone",
+"side": "R",
+"base": "second metatarsal bone",
+"size": 162984
+},
+"FMA24510": {
+"name": "left second metatarsal bone",
+"kind": "bone",
+"side": "L",
+"base": "second metatarsal bone",
+"size": 169484
+},
+"FMA24511": {
+"name": "right third metatarsal bone",
+"kind": "bone",
+"side": "R",
+"base": "third metatarsal bone",
+"size": 151584
+},
+"FMA24512": {
+"name": "left third metatarsal bone",
+"kind": "bone",
+"side": "L",
+"base": "third metatarsal bone",
+"size": 161484
+},
+"FMA24513": {
+"name": "right fourth metatarsal bone",
+"kind": "bone",
+"side": "R",
+"base": "fourth metatarsal bone",
+"size": 145984
+},
+"FMA24514": {
+"name": "left fourth metatarsal bone",
+"kind": "bone",
+"side": "L",
+"base": "fourth metatarsal bone",
+"size": 155984
+},
+"FMA24515": {
+"name": "right fifth metatarsal bone",
+"kind": "bone",
+"side": "R",
+"base": "fifth metatarsal bone",
+"size": 171684
+},
+"FMA24516": {
+"name": "left fifth metatarsal bone",
+"kind": "bone",
+"side": "L",
+"base": "fifth metatarsal bone",
+"size": 184484
+},
+"FMA24521": {
+"name": "right medial cuneiform bone",
+"kind": "bone",
+"side": "R",
+"base": "medial cuneiform bone",
+"size": 205784
+},
+"FMA24522": {
+"name": "left medial cuneiform bone",
+"kind": "bone",
+"side": "L",
+"base": "medial cuneiform bone",
+"size": 210584
+},
+"FMA24523": {
+"name": "right intermediate cuneiform bone",
+"kind": "bone",
+"side": "R",
+"base": "intermediate cuneiform bone",
+"size": 97484
+},
+"FMA24524": {
+"name": "left intermediate cuneiform bone",
+"kind": "bone",
+"side": "L",
+"base": "intermediate cuneiform bone",
+"size": 105384
+},
+"FMA24525": {
+"name": "right lateral cuneiform bone",
+"kind": "bone",
+"side": "R",
+"base": "lateral cuneiform bone",
+"size": 135184
+},
+"FMA24526": {
+"name": "left lateral cuneiform bone",
+"kind": "bone",
+"side": "L",
+"base": "lateral cuneiform bone",
+"size": 148484
+},
+"FMA24528": {
+"name": "right cuboid bone",
+"kind": "bone",
+"side": "R",
+"base": "cuboid bone",
+"size": 181784
+},
+"FMA24529": {
+"name": "left cuboid bone",
+"kind": "bone",
+"side": "L",
+"base": "cuboid bone",
+"size": 190284
+},
+"FMA25058": {
+"name": "intervertebral disk of axis",
+"kind": "bone",
+"side": "C",
+"base": "intervertebral disk of axis",
+"size": 150784
+},
+"FMA258714": {
+"name": "right thalamus",
+"kind": "other",
+"side": "R",
+"base": "thalamus",
+"size": 164984
+},
+"FMA258716": {
+"name": "left thalamus",
+"kind": "other",
+"side": "L",
+"base": "thalamus",
+"size": 369884
+},
+"FMA258847": {
+"name": "right calcaneal tendon",
+"kind": "muscle",
+"side": "R",
+"base": "calcaneal tendon",
+"size": 2320584
+},
+"FMA258850": {
+"name": "right intermediate tendon",
+"kind": "muscle",
+"side": "R",
+"base": "intermediate tendon",
+"size": 125984
+},
+"FMA264840": {
+"name": "left intermediate tendon",
+"kind": "muscle",
+"side": "L",
+"base": "intermediate tendon",
+"size": 115584
+},
+"FMA264844": {
+"name": "left calcaneal tendon",
+"kind": "muscle",
+"side": "L",
+"base": "calcaneal tendon",
+"size": 2361984
+},
+"FMA274027": {
+"name": "choroid plexus of right cerebral hemisphere",
+"kind": "muscle",
+"side": "R",
+"base": "choroid plexus of cerebral hemisphere",
+"size": 1077984
+},
+"FMA274029": {
+"name": "choroid plexus of left cerebral hemisphere",
+"kind": "muscle",
+"side": "L",
+"base": "choroid plexus of cerebral hemisphere",
+"size": 1075484
+},
+"FMA32530": {
+"name": "right rectus capitis posterior major",
+"kind": "muscle",
+"side": "R",
+"base": "rectus capitis posterior major",
+"size": 394684
+},
+"FMA32531": {
+"name": "left rectus capitis posterior major",
+"kind": "muscle",
+"side": "L",
+"base": "rectus capitis posterior major",
+"size": 391984
+},
+"FMA32532": {
+"name": "right rectus capitis posterior minor",
+"kind": "muscle",
+"side": "R",
+"base": "rectus capitis posterior minor",
+"size": 219884
+},
+"FMA32533": {
+"name": "left rectus capitis posterior minor",
+"kind": "muscle",
+"side": "L",
+"base": "rectus capitis posterior minor",
+"size": 215184
+},
+"FMA32534": {
+"name": "right obliquus capitis superior",
+"kind": "muscle",
+"side": "R",
+"base": "obliquus capitis superior",
+"size": 359284
+},
+"FMA32535": {
+"name": "left obliquus capitis superior",
+"kind": "muscle",
+"side": "L",
+"base": "obliquus capitis superior",
+"size": 356884
+},
+"FMA32536": {
+"name": "right obliquus capitis inferior",
+"kind": "muscle",
+"side": "R",
+"base": "obliquus capitis inferior",
+"size": 270684
+},
+"FMA32537": {
+"name": "left obliquus capitis inferior",
+"kind": "muscle",
+"side": "L",
+"base": "obliquus capitis inferior",
+"size": 261484
+},
+"FMA32540": {
+"name": "right levator scapulae",
+"kind": "muscle",
+"side": "R",
+"base": "levator scapulae",
+"size": 1566884
+},
+"FMA32541": {
+"name": "left levator scapulae",
+"kind": "muscle",
+"side": "L",
+"base": "levator scapulae",
+"size": 1519284
+},
+"FMA32544": {
+"name": "right supraspinatus",
+"kind": "muscle",
+"side": "R",
+"base": "supraspinatus",
+"size": 715984
+},
+"FMA32545": {
+"name": "left supraspinatus",
+"kind": "muscle",
+"side": "L",
+"base": "supraspinatus",
+"size": 741084
+},
+"FMA32547": {
+"name": "right infraspinatus muscle",
+"kind": "muscle",
+"side": "R",
+"base": "infraspinatus muscle",
+"size": 1584084
+},
+"FMA32548": {
+"name": "left infraspinatus muscle",
+"kind": "muscle",
+"side": "L",
+"base": "infraspinatus muscle",
+"size": 1594984
+},
+"FMA32551": {
+"name": "right teres major",
+"kind": "muscle",
+"side": "R",
+"base": "teres major",
+"size": 857484
+},
+"FMA32552": {
+"name": "left teres major",
+"kind": "muscle",
+"side": "L",
+"base": "teres major",
+"size": 855684
+},
+"FMA32553": {
+"name": "right teres minor",
+"kind": "muscle",
+"side": "R",
+"base": "teres minor",
+"size": 761284
+},
+"FMA32554": {
+"name": "left teres minor",
+"kind": "muscle",
+"side": "L",
+"base": "teres minor",
+"size": 757584
+},
+"FMA32634": {
+"name": "proximal phalanx of right second toe",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of second toe",
+"size": 68184
+},
+"FMA32635": {
+"name": "proximal phalanx of left second toe",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of second toe",
+"size": 70884
+},
+"FMA32636": {
+"name": "proximal phalanx of right third toe",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of third toe",
+"size": 61184
+},
+"FMA32637": {
+"name": "proximal phalanx of left third toe",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of third toe",
+"size": 62984
+},
+"FMA32638": {
+"name": "proximal phalanx of right fourth toe",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of fourth toe",
+"size": 54784
+},
+"FMA32639": {
+"name": "proximal phalanx of left fourth toe",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of fourth toe",
+"size": 58384
+},
+"FMA32640": {
+"name": "proximal phalanx of right little toe",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of little toe",
+"size": 57484
+},
+"FMA32641": {
+"name": "proximal phalanx of left little toe",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of little toe",
+"size": 60384
+},
+"FMA32642": {
+"name": "middle phalanx of right second toe",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of second toe",
+"size": 32684
+},
+"FMA32643": {
+"name": "middle phalanx of left second toe",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of second toe",
+"size": 34384
+},
+"FMA32644": {
+"name": "middle phalanx of right third toe",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of third toe",
+"size": 31784
+},
+"FMA32645": {
+"name": "middle phalanx of left third toe",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of third toe",
+"size": 31984
+},
+"FMA32646": {
+"name": "middle phalanx of right fourth toe",
+"kind": "bone",
+"side": "R",
+"base": "middle phalanx of fourth toe",
+"size": 26084
+},
+"FMA32647": {
+"name": "middle phalanx of left fourth toe",
+"kind": "bone",
+"side": "L",
+"base": "middle phalanx of fourth toe",
+"size": 27384
+},
+"FMA32650": {
+"name": "distal phalanx of right big toe",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of big toe",
+"size": 80384
+},
+"FMA32651": {
+"name": "distal phalanx of left big toe",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of big toe",
+"size": 79784
+},
+"FMA32652": {
+"name": "distal phalanx of right second toe",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of second toe",
+"size": 23384
+},
+"FMA32653": {
+"name": "distal phalanx of left second toe",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of second toe",
+"size": 24184
+},
+"FMA32654": {
+"name": "distal phalanx of right third toe",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of third toe",
+"size": 16784
+},
+"FMA32655": {
+"name": "distal phalanx of left third toe",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of third toe",
+"size": 17784
+},
+"FMA32656": {
+"name": "distal phalanx of right fourth toe",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of fourth toe",
+"size": 18184
+},
+"FMA32657": {
+"name": "distal phalanx of left fourth toe",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of fourth toe",
+"size": 18284
+},
+"FMA32658": {
+"name": "distal phalanx of right little toe",
+"kind": "bone",
+"side": "R",
+"base": "distal phalanx of little toe",
+"size": 13784
+},
+"FMA32659": {
+"name": "distal phalanx of left little toe",
+"kind": "bone",
+"side": "L",
+"base": "distal phalanx of little toe",
+"size": 14284
+},
+"FMA33581": {
+"name": "ascending part of right trapezius",
+"kind": "muscle",
+"side": "R",
+"base": "ascending part of trapezius",
+"size": 3481684
+},
+"FMA33583": {
+"name": "ascending part of left trapezius",
+"kind": "muscle",
+"side": "L",
+"base": "ascending part of trapezius",
+"size": 3402484
+},
+"FMA33584": {
+"name": "transverse part of right trapezius",
+"kind": "muscle",
+"side": "R",
+"base": "transverse part of trapezius",
+"size": 1529284
+},
+"FMA33585": {
+"name": "transverse part of left trapezius",
+"kind": "muscle",
+"side": "L",
+"base": "transverse part of trapezius",
+"size": 1514784
+},
+"FMA33586": {
+"name": "descending part of right trapezius",
+"kind": "muscle",
+"side": "R",
+"base": "descending part of trapezius",
+"size": 2322584
+},
+"FMA33587": {
+"name": "descending part of left trapezius",
+"kind": "muscle",
+"side": "L",
+"base": "descending part of trapezius",
+"size": 2245184
+},
+"FMA34680": {
+"name": "clavicular part of right deltoid",
+"kind": "muscle",
+"side": "R",
+"base": "clavicular part of deltoid",
+"size": 1454184
+},
+"FMA34681": {
+"name": "clavicular part of left deltoid",
+"kind": "muscle",
+"side": "L",
+"base": "clavicular part of deltoid",
+"size": 1424384
+},
+"FMA34682": {
+"name": "acromial part of right deltoid",
+"kind": "muscle",
+"side": "R",
+"base": "acromial part of deltoid",
+"size": 1484184
+},
+"FMA34683": {
+"name": "acromial part of left deltoid",
+"kind": "muscle",
+"side": "L",
+"base": "acromial part of deltoid",
+"size": 1453884
+},
+"FMA34684": {
+"name": "spinal part of right deltoid",
+"kind": "muscle",
+"side": "R",
+"base": "spinal part of deltoid",
+"size": 2200584
+},
+"FMA34685": {
+"name": "spinal part of left deltoid",
+"kind": "muscle",
+"side": "L",
+"base": "spinal part of deltoid",
+"size": 2231484
+},
+"FMA34690": {
+"name": "clavicular part of right pectoralis major",
+"kind": "muscle",
+"side": "R",
+"base": "clavicular part of pectoralis major",
+"size": 466584
+},
+"FMA34691": {
+"name": "clavicular part of left pectoralis major",
+"kind": "muscle",
+"side": "L",
+"base": "clavicular part of pectoralis major",
+"size": 460684
+},
+"FMA35192": {
+"name": "interosseous membrane of right leg",
+"kind": "other",
+"side": "R",
+"base": "interosseous membrane of leg",
+"size": 3217884
+},
+"FMA35193": {
+"name": "interosseous membrane of left leg",
+"kind": "other",
+"side": "L",
+"base": "interosseous membrane of leg",
+"size": 3177384
+},
+"FMA37386": {
+"name": "right abductor pollicis brevis",
+"kind": "other",
+"side": "R",
+"base": "abductor pollicis brevis",
+"size": 317684
+},
+"FMA37387": {
+"name": "left abductor pollicis brevis",
+"kind": "other",
+"side": "L",
+"base": "abductor pollicis brevis",
+"size": 302084
+},
+"FMA37390": {
+"name": "right opponens pollicis",
+"kind": "muscle",
+"side": "R",
+"base": "opponens pollicis",
+"size": 395284
+},
+"FMA37391": {
+"name": "left opponens pollicis",
+"kind": "muscle",
+"side": "L",
+"base": "opponens pollicis",
+"size": 379184
+},
+"FMA37396": {
+"name": "abductor digiti minimi of right hand",
+"kind": "other",
+"side": "R",
+"base": "abductor digiti minimi of hand",
+"size": 353784
+},
+"FMA37397": {
+"name": "abductor digiti minimi of left hand",
+"kind": "other",
+"side": "L",
+"base": "abductor digiti minimi of hand",
+"size": 343584
+},
+"FMA37398": {
+"name": "flexor digiti minimi brevis of right hand",
+"kind": "muscle",
+"side": "R",
+"base": "flexor digiti minimi brevis of hand",
+"size": 157284
+},
+"FMA37399": {
+"name": "flexor digiti minimi brevis of left hand",
+"kind": "muscle",
+"side": "L",
+"base": "flexor digiti minimi brevis of hand",
+"size": 152284
+},
+"FMA37400": {
+"name": "opponens digiti minimi of right hand",
+"kind": "muscle",
+"side": "R",
+"base": "opponens digiti minimi of hand",
+"size": 233284
+},
+"FMA37401": {
+"name": "opponens digiti minimi of left hand",
+"kind": "muscle",
+"side": "L",
+"base": "opponens digiti minimi of hand",
+"size": 228584
+},
+"FMA37459": {
+"name": "right abductor hallucis",
+"kind": "other",
+"side": "R",
+"base": "abductor hallucis",
+"size": 857984
+},
+"FMA37460": {
+"name": "left abductor hallucis",
+"kind": "other",
+"side": "L",
+"base": "abductor hallucis",
+"size": 854984
+},
+"FMA37461": {
+"name": "right flexor digitorum brevis",
+"kind": "muscle",
+"side": "R",
+"base": "flexor digitorum brevis",
+"size": 1627484
+},
+"FMA37462": {
+"name": "left flexor digitorum brevis",
+"kind": "muscle",
+"side": "L",
+"base": "flexor digitorum brevis",
+"size": 1706384
+},
+"FMA37463": {
+"name": "abductor digiti minimi of right foot",
+"kind": "other",
+"side": "R",
+"base": "abductor digiti minimi of foot",
+"size": 661584
+},
+"FMA37464": {
+"name": "abductor digiti minimi of left foot",
+"kind": "other",
+"side": "L",
+"base": "abductor digiti minimi of foot",
+"size": 695384
+},
+"FMA37465": {
+"name": "right flexor accessorius",
+"kind": "muscle",
+"side": "R",
+"base": "flexor accessorius",
+"size": 590384
+},
+"FMA37466": {
+"name": "left flexor accessorius",
+"kind": "muscle",
+"side": "L",
+"base": "flexor accessorius",
+"size": 625384
+},
+"FMA37471": {
+"name": "flexor digiti minimi brevis of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "flexor digiti minimi brevis of foot",
+"size": 250284
+},
+"FMA37472": {
+"name": "flexor digiti minimi brevis of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "flexor digiti minimi brevis of foot",
+"size": 256284
+},
+"FMA37483": {
+"name": "fourth lumbrical of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "fourth lumbrical of foot",
+"size": 150884
+},
+"FMA37484": {
+"name": "fourth lumbrical of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "fourth lumbrical of foot",
+"size": 161384
+},
+"FMA37485": {
+"name": "third lumbrical of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "third lumbrical of foot",
+"size": 172384
+},
+"FMA37486": {
+"name": "third lumbrical of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "third lumbrical of foot",
+"size": 176184
+},
+"FMA37665": {
+"name": "right coracobrachialis",
+"kind": "muscle",
+"side": "R",
+"base": "coracobrachialis",
+"size": 582484
+},
+"FMA37666": {
+"name": "left coracobrachialis",
+"kind": "muscle",
+"side": "L",
+"base": "coracobrachialis",
+"size": 555684
+},
+"FMA37668": {
+"name": "right brachialis",
+"kind": "muscle",
+"side": "R",
+"base": "brachialis",
+"size": 1749484
+},
+"FMA37669": {
+"name": "left brachialis",
+"kind": "muscle",
+"side": "L",
+"base": "brachialis",
+"size": 1734384
+},
+"FMA37684": {
+"name": "short head of right biceps brachii",
+"kind": "muscle",
+"side": "R",
+"base": "short head of biceps brachii",
+"size": 1392084
+},
+"FMA37685": {
+"name": "short head of left biceps brachii",
+"kind": "muscle",
+"side": "L",
+"base": "short head of biceps brachii",
+"size": 1435484
+},
+"FMA37686": {
+"name": "long head of right biceps brachii",
+"kind": "muscle",
+"side": "R",
+"base": "long head of biceps brachii",
+"size": 1613384
+},
+"FMA37687": {
+"name": "long head of left biceps brachii",
+"kind": "muscle",
+"side": "L",
+"base": "long head of biceps brachii",
+"size": 1645384
+},
+"FMA37695": {
+"name": "medial head of right triceps brachii",
+"kind": "muscle",
+"side": "R",
+"base": "medial head of triceps brachii",
+"size": 1344084
+},
+"FMA37696": {
+"name": "medial head of left triceps brachii",
+"kind": "muscle",
+"side": "L",
+"base": "medial head of triceps brachii",
+"size": 1311384
+},
+"FMA37697": {
+"name": "lateral head of right triceps brachii",
+"kind": "muscle",
+"side": "R",
+"base": "lateral head of triceps brachii",
+"size": 1815684
+},
+"FMA37698": {
+"name": "lateral head of left triceps brachii",
+"kind": "muscle",
+"side": "L",
+"base": "lateral head of triceps brachii",
+"size": 1798784
+},
+"FMA37699": {
+"name": "long head of right triceps brachii",
+"kind": "muscle",
+"side": "R",
+"base": "long head of triceps brachii",
+"size": 1975784
+},
+"FMA37700": {
+"name": "long head of left triceps brachii",
+"kind": "muscle",
+"side": "L",
+"base": "long head of triceps brachii",
+"size": 1906484
+},
+"FMA37705": {
+"name": "right anconeus",
+"kind": "muscle",
+"side": "R",
+"base": "anconeus",
+"size": 721884
+},
+"FMA37706": {
+"name": "left anconeus",
+"kind": "muscle",
+"side": "L",
+"base": "anconeus",
+"size": 709184
+},
+"FMA37717": {
+"name": "first lumbrical of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "first lumbrical of foot",
+"size": 246284
+},
+"FMA37718": {
+"name": "first lumbrical of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "first lumbrical of foot",
+"size": 238084
+},
+"FMA37719": {
+"name": "second lumbrical of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "second lumbrical of foot",
+"size": 166684
+},
+"FMA37720": {
+"name": "second lumbrical of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "second lumbrical of foot",
+"size": 165484
+},
+"FMA37741": {
+"name": "third plantar interosseous of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "third plantar interosseous of foot",
+"size": 197384
+},
+"FMA37742": {
+"name": "third plantar interosseous of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "third plantar interosseous of foot",
+"size": 203384
+},
+"FMA37743": {
+"name": "second plantar interosseous of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "second plantar interosseous of foot",
+"size": 216184
+},
+"FMA37744": {
+"name": "second plantar interosseous of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "second plantar interosseous of foot",
+"size": 216984
+},
+"FMA37745": {
+"name": "first plantar interosseous of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "first plantar interosseous of foot",
+"size": 222184
+},
+"FMA37746": {
+"name": "first plantar interosseous of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "first plantar interosseous of foot",
+"size": 219484
+},
+"FMA3802": {
+"name": "trunk of right coronary artery",
+"kind": "other",
+"side": "R",
+"base": "trunk of coronary artery",
+"size": 257784
+},
+"FMA3840nsn": {
+"name": "posterior interventricular branch of right coronary artery, nsn",
+"kind": "other",
+"side": "R",
+"base": "posterior interventricular branch of coronary artery, nsn",
+"size": 154384
+},
+"FMA38454": {
+"name": "right pronator quadratus",
+"kind": "muscle",
+"side": "R",
+"base": "pronator quadratus",
+"size": 733384
+},
+"FMA38455": {
+"name": "left pronator quadratus",
+"kind": "muscle",
+"side": "L",
+"base": "pronator quadratus",
+"size": 721884
+},
+"FMA38460": {
+"name": "right flexor carpi radialis",
+"kind": "muscle",
+"side": "R",
+"base": "flexor carpi radialis",
+"size": 836184
+},
+"FMA38461": {
+"name": "left flexor carpi radialis",
+"kind": "muscle",
+"side": "L",
+"base": "flexor carpi radialis",
+"size": 796584
+},
+"FMA38463": {
+"name": "right palmaris longus",
+"kind": "muscle",
+"side": "R",
+"base": "palmaris longus",
+"size": 2220584
+},
+"FMA38464": {
+"name": "left palmaris longus",
+"kind": "muscle",
+"side": "L",
+"base": "palmaris longus",
+"size": 2153184
+},
+"FMA38479": {
+"name": "right flexor digitorum profundus",
+"kind": "muscle",
+"side": "R",
+"base": "flexor digitorum profundus",
+"size": 3564784
+},
+"FMA38480": {
+"name": "left flexor digitorum profundus",
+"kind": "muscle",
+"side": "L",
+"base": "flexor digitorum profundus",
+"size": 3629784
+},
+"FMA38482": {
+"name": "right flexor pollicis longus",
+"kind": "muscle",
+"side": "R",
+"base": "flexor pollicis longus",
+"size": 952484
+},
+"FMA38484": {
+"name": "left flexor pollicis longus",
+"kind": "muscle",
+"side": "L",
+"base": "flexor pollicis longus",
+"size": 934984
+},
+"FMA38486": {
+"name": "right brachioradialis",
+"kind": "muscle",
+"side": "R",
+"base": "brachioradialis",
+"size": 3658084
+},
+"FMA38487": {
+"name": "left brachioradialis",
+"kind": "muscle",
+"side": "L",
+"base": "brachioradialis",
+"size": 3677984
+},
+"FMA38495": {
+"name": "right extensor carpi radialis longus",
+"kind": "muscle",
+"side": "R",
+"base": "extensor carpi radialis longus",
+"size": 1857084
+},
+"FMA38496": {
+"name": "left extensor carpi radialis longus",
+"kind": "muscle",
+"side": "L",
+"base": "extensor carpi radialis longus",
+"size": 1913884
+},
+"FMA38498": {
+"name": "right extensor carpi radialis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "extensor carpi radialis brevis",
+"size": 1574884
+},
+"FMA38499": {
+"name": "left extensor carpi radialis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "extensor carpi radialis brevis",
+"size": 1694784
+},
+"FMA38501": {
+"name": "right extensor digitorum",
+"kind": "muscle",
+"side": "R",
+"base": "extensor digitorum",
+"size": 3222284
+},
+"FMA38502": {
+"name": "left extensor digitorum",
+"kind": "muscle",
+"side": "L",
+"base": "extensor digitorum",
+"size": 3182884
+},
+"FMA38504": {
+"name": "right extensor digiti minimi",
+"kind": "muscle",
+"side": "R",
+"base": "extensor digiti minimi",
+"size": 1077084
+},
+"FMA38505": {
+"name": "left extensor digiti minimi",
+"kind": "muscle",
+"side": "L",
+"base": "extensor digiti minimi",
+"size": 1075584
+},
+"FMA38513": {
+"name": "right supinator",
+"kind": "muscle",
+"side": "R",
+"base": "supinator",
+"size": 1382584
+},
+"FMA38514": {
+"name": "left supinator",
+"kind": "muscle",
+"side": "L",
+"base": "supinator",
+"size": 1303684
+},
+"FMA38516": {
+"name": "right abductor pollicis longus",
+"kind": "other",
+"side": "R",
+"base": "abductor pollicis longus",
+"size": 1238384
+},
+"FMA38517": {
+"name": "left abductor pollicis longus",
+"kind": "other",
+"side": "L",
+"base": "abductor pollicis longus",
+"size": 1183384
+},
+"FMA38519": {
+"name": "right extensor pollicis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "extensor pollicis brevis",
+"size": 586684
+},
+"FMA38520": {
+"name": "left extensor pollicis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "extensor pollicis brevis",
+"size": 581284
+},
+"FMA38522": {
+"name": "right extensor pollicis longus",
+"kind": "muscle",
+"side": "R",
+"base": "extensor pollicis longus",
+"size": 811784
+},
+"FMA38523": {
+"name": "left extensor pollicis longus",
+"kind": "muscle",
+"side": "L",
+"base": "extensor pollicis longus",
+"size": 803684
+},
+"FMA38525": {
+"name": "right extensor indicis",
+"kind": "muscle",
+"side": "R",
+"base": "extensor indicis",
+"size": 583584
+},
+"FMA38526": {
+"name": "left extensor indicis",
+"kind": "muscle",
+"side": "L",
+"base": "extensor indicis",
+"size": 575984
+},
+"FMA38560": {
+"name": "humeral head of right pronator teres",
+"kind": "muscle",
+"side": "R",
+"base": "humeral head of pronator teres",
+"size": 1298984
+},
+"FMA38561": {
+"name": "humeral head of left pronator teres",
+"kind": "muscle",
+"side": "L",
+"base": "humeral head of pronator teres",
+"size": 1268884
+},
+"FMA38562": {
+"name": "ulnar head of right pronator teres",
+"kind": "muscle",
+"side": "R",
+"base": "ulnar head of pronator teres",
+"size": 568784
+},
+"FMA38563": {
+"name": "ulnar head of left pronator teres",
+"kind": "muscle",
+"side": "L",
+"base": "ulnar head of pronator teres",
+"size": 570384
+},
+"FMA38617": {
+"name": "humeral head of right flexor carpi ulnaris",
+"kind": "muscle",
+"side": "R",
+"base": "humeral head of flexor carpi ulnaris",
+"size": 1956584
+},
+"FMA38618": {
+"name": "humeral head of left flexor carpi ulnaris",
+"kind": "muscle",
+"side": "L",
+"base": "humeral head of flexor carpi ulnaris",
+"size": 2018384
+},
+"FMA38619": {
+"name": "ulnar head of right flexor carpi ulnaris",
+"kind": "muscle",
+"side": "R",
+"base": "ulnar head of flexor carpi ulnaris",
+"size": 760884
+},
+"FMA38620": {
+"name": "ulnar head of left flexor carpi ulnaris",
+"kind": "muscle",
+"side": "L",
+"base": "ulnar head of flexor carpi ulnaris",
+"size": 733884
+},
+"FMA3862nsn": {
+"name": "anterior interventricular branch of left coronary artery, nsn",
+"kind": "other",
+"side": "L",
+"base": "anterior interventricular branch of coronary artery, nsn",
+"size": 461084
+},
+"FMA38638": {
+"name": "humeroulnar head of right flexor digitorum superficialis",
+"kind": "muscle",
+"side": "R",
+"base": "humeroulnar head of flexor digitorum superficialis",
+"size": 6407584
+},
+"FMA38639": {
+"name": "humeroulnar head of left flexor digitorum superficialis",
+"kind": "muscle",
+"side": "L",
+"base": "humeroulnar head of flexor digitorum superficialis",
+"size": 6541184
+},
+"FMA38640": {
+"name": "radial head of right flexor digitorum superficialis",
+"kind": "muscle",
+"side": "R",
+"base": "radial head of flexor digitorum superficialis",
+"size": 638484
+},
+"FMA38641": {
+"name": "radial head of left flexor digitorum superficialis",
+"kind": "muscle",
+"side": "L",
+"base": "radial head of flexor digitorum superficialis",
+"size": 638384
+},
+"FMA38928": {
+"name": "right rectus femoris",
+"kind": "muscle",
+"side": "R",
+"base": "rectus femoris",
+"size": 4149584
+},
+"FMA38929": {
+"name": "left rectus femoris",
+"kind": "muscle",
+"side": "L",
+"base": "rectus femoris",
+"size": 4102584
+},
+"FMA38930": {
+"name": "right vastus lateralis",
+"kind": "muscle",
+"side": "R",
+"base": "vastus lateralis",
+"size": 4778284
+},
+"FMA38931": {
+"name": "left vastus lateralis",
+"kind": "muscle",
+"side": "L",
+"base": "vastus lateralis",
+"size": 4723784
+},
+"FMA38932": {
+"name": "right vastus medialis",
+"kind": "muscle",
+"side": "R",
+"base": "vastus medialis",
+"size": 3290784
+},
+"FMA38933": {
+"name": "left vastus medialis",
+"kind": "muscle",
+"side": "L",
+"base": "vastus medialis",
+"size": 3249084
+},
+"FMA38934": {
+"name": "right vastus intermedius",
+"kind": "muscle",
+"side": "R",
+"base": "vastus intermedius",
+"size": 3093384
+},
+"FMA38935": {
+"name": "left vastus intermedius",
+"kind": "muscle",
+"side": "L",
+"base": "vastus intermedius",
+"size": 3068784
+},
+"FMA3932nsn": {
+"name": "brachiocephalic artery, nsn",
+"kind": "other",
+"side": "C",
+"base": "brachiocephalic artery, nsn",
+"size": 60584
+},
+"FMA3941": {
+"name": "right common carotid artery",
+"kind": "other",
+"side": "R",
+"base": "common carotid artery",
+"size": 221284
+},
+"FMA3953": {
+"name": "right subclavian artery",
+"kind": "other",
+"side": "R",
+"base": "subclavian artery",
+"size": 113084
+},
+"FMA40120": {
+"name": "flexor retinaculum of right wrist",
+"kind": "muscle",
+"side": "R",
+"base": "flexor retinaculum of wrist",
+"size": 532484
+},
+"FMA40121": {
+"name": "flexor retinaculum of left wrist",
+"kind": "muscle",
+"side": "L",
+"base": "flexor retinaculum of wrist",
+"size": 531784
+},
+"FMA4058": {
+"name": "left common carotid artery",
+"kind": "other",
+"side": "L",
+"base": "common carotid artery",
+"size": 34984
+},
+"FMA42398": {
+"name": "set of lumbricals of right hand",
+"kind": "muscle",
+"side": "R",
+"base": "set of lumbricals of hand",
+"size": 761884
+},
+"FMA42399": {
+"name": "set of lumbricals of left hand",
+"kind": "muscle",
+"side": "L",
+"base": "set of lumbricals of hand",
+"size": 746584
+},
+"FMA42402": {
+"name": "set of palmar interossei of right hand",
+"kind": "muscle",
+"side": "R",
+"base": "set of palmar interossei of hand",
+"size": 278284
+},
+"FMA42403": {
+"name": "set of palmar interossei of left hand",
+"kind": "muscle",
+"side": "L",
+"base": "set of palmar interossei of hand",
+"size": 268284
+},
+"FMA42404": {
+"name": "set of dorsal interossei of right hand",
+"kind": "muscle",
+"side": "R",
+"base": "set of dorsal interossei of hand",
+"size": 866484
+},
+"FMA42405": {
+"name": "set of dorsal interossei of left hand",
+"kind": "muscle",
+"side": "L",
+"base": "set of dorsal interossei of hand",
+"size": 849684
+},
+"FMA43253": {
+"name": "proximal phalanx of right big toe",
+"kind": "bone",
+"side": "R",
+"base": "proximal phalanx of big toe",
+"size": 105384
+},
+"FMA43254": {
+"name": "proximal phalanx of left big toe",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of big toe",
+"size": 109784
+},
+"FMA43883": {
+"name": "right gracilis",
+"kind": "muscle",
+"side": "R",
+"base": "gracilis",
+"size": 2463184
+},
+"FMA43884": {
+"name": "left gracilis",
+"kind": "muscle",
+"side": "L",
+"base": "gracilis",
+"size": 2459784
+},
+"FMA43886": {
+"name": "right adductor minimus",
+"kind": "other",
+"side": "R",
+"base": "adductor minimus",
+"size": 474384
+},
+"FMA43887": {
+"name": "left adductor minimus",
+"kind": "other",
+"side": "L",
+"base": "adductor minimus",
+"size": 485184
+},
+"FMA44249": {
+"name": "right long plantar ligament",
+"kind": "muscle",
+"side": "R",
+"base": "long plantar ligament",
+"size": 1773284
+},
+"FMA44250": {
+"name": "left long plantar ligament",
+"kind": "muscle",
+"side": "L",
+"base": "long plantar ligament",
+"size": 1760584
+},
+"FMA45097": {
+"name": "sesamoid bone of right foot",
+"kind": "bone",
+"side": "R",
+"base": "sesamoid bone of foot",
+"size": 28884
+},
+"FMA45098": {
+"name": "sesamoid bone of left foot",
+"kind": "bone",
+"side": "L",
+"base": "sesamoid bone of foot",
+"size": 27884
+},
+"FMA45739": {
+"name": "right platysma",
+"kind": "muscle",
+"side": "R",
+"base": "platysma",
+"size": 3279084
+},
+"FMA45740": {
+"name": "left platysma",
+"kind": "muscle",
+"side": "L",
+"base": "platysma",
+"size": 3225884
+},
+"FMA45826": {
+"name": "right stylohyoid",
+"kind": "muscle",
+"side": "R",
+"base": "stylohyoid",
+"size": 368984
+},
+"FMA45827": {
+"name": "left stylohyoid",
+"kind": "muscle",
+"side": "L",
+"base": "stylohyoid",
+"size": 356684
+},
+"FMA45854": {
+"name": "right pubococcygeus",
+"kind": "other",
+"side": "R",
+"base": "pubococcygeus",
+"size": 1154084
+},
+"FMA45855": {
+"name": "left pubococcygeus",
+"kind": "other",
+"side": "L",
+"base": "pubococcygeus",
+"size": 1168184
+},
+"FMA45856": {
+"name": "right puborectalis",
+"kind": "other",
+"side": "R",
+"base": "puborectalis",
+"size": 896284
+},
+"FMA45857": {
+"name": "left puborectalis",
+"kind": "other",
+"side": "L",
+"base": "puborectalis",
+"size": 891984
+},
+"FMA45858": {
+"name": "right iliococcygeus",
+"kind": "other",
+"side": "R",
+"base": "iliococcygeus",
+"size": 923984
+},
+"FMA45859": {
+"name": "left iliococcygeus",
+"kind": "other",
+"side": "L",
+"base": "iliococcygeus",
+"size": 917184
+},
+"FMA45874": {
+"name": "abdominal part of right pectoralis major",
+"kind": "muscle",
+"side": "R",
+"base": "abdominal part of pectoralis major",
+"size": 377384
+},
+"FMA45875": {
+"name": "abdominal part of left pectoralis major",
+"kind": "muscle",
+"side": "L",
+"base": "abdominal part of pectoralis major",
+"size": 373484
+},
+"FMA45888": {
+"name": "long head of right biceps femoris",
+"kind": "muscle",
+"side": "R",
+"base": "long head of biceps femoris",
+"size": 3654984
+},
+"FMA45889": {
+"name": "long head of left biceps femoris",
+"kind": "muscle",
+"side": "L",
+"base": "long head of biceps femoris",
+"size": 3709084
+},
+"FMA45891": {
+"name": "short head of right biceps femoris",
+"kind": "muscle",
+"side": "R",
+"base": "short head of biceps femoris",
+"size": 1273984
+},
+"FMA45892": {
+"name": "short head of left biceps femoris",
+"kind": "muscle",
+"side": "L",
+"base": "short head of biceps femoris",
+"size": 1234984
+},
+"FMA45957": {
+"name": "medial head of right gastrocnemius",
+"kind": "muscle",
+"side": "R",
+"base": "medial head of gastrocnemius",
+"size": 3238684
+},
+"FMA45958": {
+"name": "medial head of left gastrocnemius",
+"kind": "muscle",
+"side": "L",
+"base": "medial head of gastrocnemius",
+"size": 3256984
+},
+"FMA45960": {
+"name": "lateral head of right gastrocnemius",
+"kind": "muscle",
+"side": "R",
+"base": "lateral head of gastrocnemius",
+"size": 2455284
+},
+"FMA45961": {
+"name": "lateral head of left gastrocnemius",
+"kind": "muscle",
+"side": "L",
+"base": "lateral head of gastrocnemius",
+"size": 2435584
+},
+"FMA45971": {
+"name": "medial head of right flexor hallucis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "medial head of flexor hallucis brevis",
+"size": 383684
+},
+"FMA45972": {
+"name": "medial head of left flexor hallucis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "medial head of flexor hallucis brevis",
+"size": 371984
+},
+"FMA45973": {
+"name": "lateral head of right flexor hallucis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "lateral head of flexor hallucis brevis",
+"size": 549684
+},
+"FMA45974": {
+"name": "lateral head of left flexor hallucis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "lateral head of flexor hallucis brevis",
+"size": 538684
+},
+"FMA46018": {
+"name": "oblique head of right adductor hallucis",
+"kind": "other",
+"side": "R",
+"base": "oblique head of adductor hallucis",
+"size": 474084
+},
+"FMA46019": {
+"name": "oblique head of left adductor hallucis",
+"kind": "other",
+"side": "L",
+"base": "oblique head of adductor hallucis",
+"size": 489684
+},
+"FMA46020": {
+"name": "transverse head of right adductor hallucis",
+"kind": "other",
+"side": "R",
+"base": "transverse head of adductor hallucis",
+"size": 209084
+},
+"FMA46021": {
+"name": "transverse head of left adductor hallucis",
+"kind": "other",
+"side": "L",
+"base": "transverse head of adductor hallucis",
+"size": 196884
+},
+"FMA46110": {
+"name": "deep head of right flexor pollicis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "deep head of flexor pollicis brevis",
+"size": 197684
+},
+"FMA46111": {
+"name": "deep head of left flexor pollicis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "deep head of flexor pollicis brevis",
+"size": 195284
+},
+"FMA46121": {
+"name": "oblique head of right adductor pollicis",
+"kind": "other",
+"side": "R",
+"base": "oblique head of adductor pollicis",
+"size": 234684
+},
+"FMA46122": {
+"name": "oblique head of left adductor pollicis",
+"kind": "other",
+"side": "L",
+"base": "oblique head of adductor pollicis",
+"size": 216184
+},
+"FMA46123": {
+"name": "transverse head of right adductor pollicis",
+"kind": "other",
+"side": "R",
+"base": "transverse head of adductor pollicis",
+"size": 509684
+},
+"FMA46124": {
+"name": "transverse head of left adductor pollicis",
+"kind": "other",
+"side": "L",
+"base": "transverse head of adductor pollicis",
+"size": 464184
+},
+"FMA46283": {
+"name": "superior oblique part of right longus colli",
+"kind": "muscle",
+"side": "R",
+"base": "superior oblique part of longus colli",
+"size": 583884
+},
+"FMA46284": {
+"name": "superior oblique part of left longus colli",
+"kind": "muscle",
+"side": "L",
+"base": "superior oblique part of longus colli",
+"size": 532484
+},
+"FMA46285": {
+"name": "vertical intermediate part of right longus colli",
+"kind": "muscle",
+"side": "R",
+"base": "vertical intermediate part of longus colli",
+"size": 871684
+},
+"FMA46286": {
+"name": "vertical intermediate part of left longus colli",
+"kind": "muscle",
+"side": "L",
+"base": "vertical intermediate part of longus colli",
+"size": 847784
+},
+"FMA46287": {
+"name": "inferior oblique part of right longus colli",
+"kind": "muscle",
+"side": "R",
+"base": "inferior oblique part of longus colli",
+"size": 558684
+},
+"FMA46288": {
+"name": "inferior oblique part of left longus colli",
+"kind": "muscle",
+"side": "L",
+"base": "inferior oblique part of longus colli",
+"size": 530984
+},
+"FMA46304": {
+"name": "anterior belly of right digastric",
+"kind": "muscle",
+"side": "R",
+"base": "anterior belly of digastric",
+"size": 196484
+},
+"FMA46305": {
+"name": "anterior belly of left digastric",
+"kind": "muscle",
+"side": "L",
+"base": "anterior belly of digastric",
+"size": 191184
+},
+"FMA46306": {
+"name": "posterior belly of right digastric",
+"kind": "muscle",
+"side": "R",
+"base": "posterior belly of digastric",
+"size": 652884
+},
+"FMA46307": {
+"name": "posterior belly of left digastric",
+"kind": "muscle",
+"side": "L",
+"base": "posterior belly of digastric",
+"size": 645384
+},
+"FMA46309": {
+"name": "right longus capitis",
+"kind": "muscle",
+"side": "R",
+"base": "longus capitis",
+"size": 990084
+},
+"FMA46310": {
+"name": "left longus capitis",
+"kind": "muscle",
+"side": "L",
+"base": "longus capitis",
+"size": 965084
+},
+"FMA46313": {
+"name": "right rectus capitis anterior",
+"kind": "muscle",
+"side": "R",
+"base": "rectus capitis anterior",
+"size": 201784
+},
+"FMA46314": {
+"name": "left rectus capitis anterior",
+"kind": "muscle",
+"side": "L",
+"base": "rectus capitis anterior",
+"size": 199384
+},
+"FMA46317": {
+"name": "right rectus capitis lateralis",
+"kind": "muscle",
+"side": "R",
+"base": "rectus capitis lateralis",
+"size": 180884
+},
+"FMA46318": {
+"name": "left rectus capitis lateralis",
+"kind": "muscle",
+"side": "L",
+"base": "rectus capitis lateralis",
+"size": 179884
+},
+"FMA46321": {
+"name": "right mylohyoid",
+"kind": "muscle",
+"side": "R",
+"base": "mylohyoid",
+"size": 562984
+},
+"FMA46322": {
+"name": "left mylohyoid",
+"kind": "muscle",
+"side": "L",
+"base": "mylohyoid",
+"size": 558184
+},
+"FMA46326": {
+"name": "right geniohyoid",
+"kind": "muscle",
+"side": "R",
+"base": "geniohyoid",
+"size": 266084
+},
+"FMA46327": {
+"name": "left geniohyoid",
+"kind": "muscle",
+"side": "L",
+"base": "geniohyoid",
+"size": 259584
+},
+"FMA46443": {
+"name": "right coccygeus",
+"kind": "other",
+"side": "R",
+"base": "coccygeus",
+"size": 486884
+},
+"FMA46444": {
+"name": "left coccygeus",
+"kind": "other",
+"side": "L",
+"base": "coccygeus",
+"size": 485184
+},
+"FMA46759": {
+"name": "right frontalis",
+"kind": "muscle",
+"side": "R",
+"base": "frontalis",
+"size": 2944884
+},
+"FMA46760": {
+"name": "left frontalis",
+"kind": "muscle",
+"side": "L",
+"base": "frontalis",
+"size": 2929684
+},
+"FMA46761": {
+"name": "right occipitalis",
+"kind": "muscle",
+"side": "R",
+"base": "occipitalis",
+"size": 1351284
+},
+"FMA46762": {
+"name": "left occipitalis",
+"kind": "muscle",
+"side": "L",
+"base": "occipitalis",
+"size": 1337884
+},
+"FMA46763": {
+"name": "right temporoparietalis",
+"kind": "muscle",
+"side": "R",
+"base": "temporoparietalis",
+"size": 6096384
+},
+"FMA46764": {
+"name": "left temporoparietalis",
+"kind": "muscle",
+"side": "L",
+"base": "temporoparietalis",
+"size": 6081084
+},
+"FMA46782": {
+"name": "orbital part of right orbicularis oculi",
+"kind": "muscle",
+"side": "R",
+"base": "orbital part of orbicularis oculi",
+"size": 416584
+},
+"FMA46783": {
+"name": "orbital part of left orbicularis oculi",
+"kind": "muscle",
+"side": "L",
+"base": "orbital part of orbicularis oculi",
+"size": 414084
+},
+"FMA46785": {
+"name": "palpebral part of right orbicularis oculi",
+"kind": "muscle",
+"side": "R",
+"base": "palpebral part of orbicularis oculi",
+"size": 1195384
+},
+"FMA46786": {
+"name": "palpebral part of left orbicularis oculi",
+"kind": "muscle",
+"side": "L",
+"base": "palpebral part of orbicularis oculi",
+"size": 1152184
+},
+"FMA46796": {
+"name": "right corrugator supercilii",
+"kind": "muscle",
+"side": "R",
+"base": "corrugator supercilii",
+"size": 139284
+},
+"FMA46797": {
+"name": "left corrugator supercilii",
+"kind": "muscle",
+"side": "L",
+"base": "corrugator supercilii",
+"size": 138484
+},
+"FMA46803": {
+"name": "right levator labii superioris alaeque nasi",
+"kind": "muscle",
+"side": "R",
+"base": "levator labii superioris alaeque nasi",
+"size": 84484
+},
+"FMA46804": {
+"name": "left levator labii superioris alaeque nasi",
+"kind": "muscle",
+"side": "L",
+"base": "levator labii superioris alaeque nasi",
+"size": 82384
+},
+"FMA46806": {
+"name": "right levator labii superioris",
+"kind": "muscle",
+"side": "R",
+"base": "levator labii superioris",
+"size": 271984
+},
+"FMA46807": {
+"name": "left levator labii superioris",
+"kind": "muscle",
+"side": "L",
+"base": "levator labii superioris",
+"size": 268784
+},
+"FMA46812": {
+"name": "right zygomaticus major",
+"kind": "muscle",
+"side": "R",
+"base": "zygomaticus major",
+"size": 510984
+},
+"FMA46813": {
+"name": "left zygomaticus major",
+"kind": "muscle",
+"side": "L",
+"base": "zygomaticus major",
+"size": 506084
+},
+"FMA46814": {
+"name": "right zygomaticus minor",
+"kind": "muscle",
+"side": "R",
+"base": "zygomaticus minor",
+"size": 228484
+},
+"FMA46815": {
+"name": "left zygomaticus minor",
+"kind": "muscle",
+"side": "L",
+"base": "zygomaticus minor",
+"size": 227584
+},
+"FMA46817": {
+"name": "right depressor labii inferioris",
+"kind": "muscle",
+"side": "R",
+"base": "depressor labii inferioris",
+"size": 498084
+},
+"FMA46818": {
+"name": "left depressor labii inferioris",
+"kind": "muscle",
+"side": "L",
+"base": "depressor labii inferioris",
+"size": 491684
+},
+"FMA46823": {
+"name": "right levator anguli oris",
+"kind": "muscle",
+"side": "R",
+"base": "levator anguli oris",
+"size": 202084
+},
+"FMA46824": {
+"name": "left levator anguli oris",
+"kind": "muscle",
+"side": "L",
+"base": "levator anguli oris",
+"size": 199584
+},
+"FMA46826": {
+"name": "right mentalis",
+"kind": "muscle",
+"side": "R",
+"base": "mentalis",
+"size": 94684
+},
+"FMA46827": {
+"name": "left mentalis",
+"kind": "muscle",
+"side": "L",
+"base": "mentalis",
+"size": 92684
+},
+"FMA46829": {
+"name": "right depressor anguli oris",
+"kind": "muscle",
+"side": "R",
+"base": "depressor anguli oris",
+"size": 273184
+},
+"FMA46830": {
+"name": "left depressor anguli oris",
+"kind": "muscle",
+"side": "L",
+"base": "depressor anguli oris",
+"size": 268684
+},
+"FMA46835": {
+"name": "right buccinator",
+"kind": "muscle",
+"side": "R",
+"base": "buccinator",
+"size": 442984
+},
+"FMA46836": {
+"name": "left buccinator",
+"kind": "muscle",
+"side": "L",
+"base": "buccinator",
+"size": 441884
+},
+"FMA46839": {
+"name": "right risorius",
+"kind": "muscle",
+"side": "R",
+"base": "risorius",
+"size": 336884
+},
+"FMA46840": {
+"name": "left risorius",
+"kind": "muscle",
+"side": "L",
+"base": "risorius",
+"size": 334284
+},
+"FMA4685": {
+"name": "stem of left coronary artery",
+"kind": "other",
+"side": "L",
+"base": "stem of coronary artery",
+"size": 12684
+},
+"FMA4694": {
+"name": "left subclavian artery",
+"kind": "other",
+"side": "L",
+"base": "subclavian artery",
+"size": 161784
+},
+"FMA4751": {
+"name": "right brachiocephalic vein",
+"kind": "other",
+"side": "R",
+"base": "brachiocephalic vein",
+"size": 70084
+},
+"FMA4754": {
+"name": "right internal jugular vein",
+"kind": "other",
+"side": "R",
+"base": "internal jugular vein",
+"size": 29084
+},
+"FMA4755": {
+"name": "right subclavian vein",
+"kind": "other",
+"side": "R",
+"base": "subclavian vein",
+"size": 47384
+},
+"FMA4761": {
+"name": "left brachiocephalic vein",
+"kind": "other",
+"side": "L",
+"base": "brachiocephalic vein",
+"size": 95984
+},
+"FMA4762": {
+"name": "left internal jugular vein",
+"kind": "other",
+"side": "L",
+"base": "internal jugular vein",
+"size": 36084
+},
+"FMA4763": {
+"name": "left subclavian vein",
+"kind": "other",
+"side": "L",
+"base": "subclavian vein",
+"size": 55684
+},
+"FMA49001": {
+"name": "superficial part of right masseter",
+"kind": "muscle",
+"side": "R",
+"base": "superficial part of masseter",
+"size": 504484
+},
+"FMA49002": {
+"name": "superficial part of left masseter",
+"kind": "muscle",
+"side": "L",
+"base": "superficial part of masseter",
+"size": 501684
+},
+"FMA49004": {
+"name": "deep part of right masseter",
+"kind": "muscle",
+"side": "R",
+"base": "deep part of masseter",
+"size": 707684
+},
+"FMA49005": {
+"name": "deep part of left masseter",
+"kind": "muscle",
+"side": "L",
+"base": "deep part of masseter",
+"size": 705784
+},
+"FMA49007": {
+"name": "right temporalis",
+"kind": "muscle",
+"side": "R",
+"base": "temporalis",
+"size": 5312684
+},
+"FMA49008": {
+"name": "left temporalis",
+"kind": "muscle",
+"side": "L",
+"base": "temporalis",
+"size": 5317884
+},
+"FMA49012": {
+"name": "right medial pterygoid",
+"kind": "muscle",
+"side": "R",
+"base": "medial pterygoid",
+"size": 372284
+},
+"FMA49013": {
+"name": "left medial pterygoid",
+"kind": "muscle",
+"side": "L",
+"base": "medial pterygoid",
+"size": 368484
+},
+"FMA49022": {
+"name": "lower head of right lateral pterygoid",
+"kind": "muscle",
+"side": "R",
+"base": "lower head of lateral pterygoid",
+"size": 121084
+},
+"FMA49023": {
+"name": "lower head of left lateral pterygoid",
+"kind": "muscle",
+"side": "L",
+"base": "lower head of lateral pterygoid",
+"size": 119584
+},
+"FMA49024": {
+"name": "upper head of right lateral pterygoid",
+"kind": "muscle",
+"side": "R",
+"base": "upper head of lateral pterygoid",
+"size": 116484
+},
+"FMA49025": {
+"name": "upper head of left lateral pterygoid",
+"kind": "muscle",
+"side": "L",
+"base": "upper head of lateral pterygoid",
+"size": 115584
+},
+"FMA50737": {
+"name": "celiac artery",
+"kind": "other",
+"side": "C",
+"base": "celiac artery",
+"size": 22784
+},
+"FMA50875": {
+"name": "right optic nerve",
+"kind": "other",
+"side": "R",
+"base": "optic nerve",
+"size": 515584
+},
+"FMA50878": {
+"name": "left optic nerve",
+"kind": "other",
+"side": "L",
+"base": "optic nerve",
+"size": 515184
+},
+"FMA51142": {
+"name": "right extensor digitorum brevis",
+"kind": "muscle",
+"side": "R",
+"base": "extensor digitorum brevis",
+"size": 1610884
+},
+"FMA51143": {
+"name": "left extensor digitorum brevis",
+"kind": "muscle",
+"side": "L",
+"base": "extensor digitorum brevis",
+"size": 1614084
+},
+"FMA51144": {
+"name": "right extensor hallucis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "extensor hallucis brevis",
+"size": 561784
+},
+"FMA51145": {
+"name": "left extensor hallucis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "extensor hallucis brevis",
+"size": 538984
+},
+"FMA52738": {
+"name": "right temporal bone",
+"kind": "bone",
+"side": "R",
+"base": "temporal bone",
+"size": 563784
+},
+"FMA52739": {
+"name": "left temporal bone",
+"kind": "bone",
+"side": "L",
+"base": "temporal bone",
+"size": 560484
+},
+"FMA52788": {
+"name": "right parietal bone",
+"kind": "bone",
+"side": "R",
+"base": "parietal bone",
+"size": 1486784
+},
+"FMA52789": {
+"name": "left parietal bone",
+"kind": "bone",
+"side": "L",
+"base": "parietal bone",
+"size": 1512584
+},
+"FMA52892": {
+"name": "right zygomatic bone",
+"kind": "bone",
+"side": "R",
+"base": "zygomatic bone",
+"size": 230684
+},
+"FMA52893": {
+"name": "left zygomatic bone",
+"kind": "bone",
+"side": "L",
+"base": "zygomatic bone",
+"size": 228084
+},
+"FMA53645": {
+"name": "right lacrimal bone",
+"kind": "bone",
+"side": "R",
+"base": "lacrimal bone",
+"size": 55784
+},
+"FMA53646": {
+"name": "left lacrimal bone",
+"kind": "bone",
+"side": "L",
+"base": "lacrimal bone",
+"size": 57684
+},
+"FMA53647": {
+"name": "right nasal bone",
+"kind": "bone",
+"side": "R",
+"base": "nasal bone",
+"size": 51284
+},
+"FMA53648": {
+"name": "left nasal bone",
+"kind": "bone",
+"side": "L",
+"base": "nasal bone",
+"size": 56284
+},
+"FMA53649": {
+"name": "right maxilla",
+"kind": "bone",
+"side": "R",
+"base": "maxilla",
+"size": 707484
+},
+"FMA53650": {
+"name": "left maxilla",
+"kind": "bone",
+"side": "L",
+"base": "maxilla",
+"size": 725384
+},
+"FMA53655": {
+"name": "right palatine bone",
+"kind": "bone",
+"side": "R",
+"base": "palatine bone",
+"size": 179684
+},
+"FMA53656": {
+"name": "left palatine bone",
+"kind": "bone",
+"side": "L",
+"base": "palatine bone",
+"size": 182184
+},
+"FMA54737": {
+"name": "right inferior nasal concha",
+"kind": "bone",
+"side": "R",
+"base": "inferior nasal concha",
+"size": 80884
+},
+"FMA54738": {
+"name": "left inferior nasal concha",
+"kind": "bone",
+"side": "L",
+"base": "inferior nasal concha",
+"size": 74284
+},
+"FMA55606": {
+"name": "right nasalis",
+"kind": "muscle",
+"side": "R",
+"base": "nasalis",
+"size": 369184
+},
+"FMA55607": {
+"name": "left nasalis",
+"kind": "muscle",
+"side": "L",
+"base": "nasalis",
+"size": 366384
+},
+"FMA55608": {
+"name": "right depressor septi nasi",
+"kind": "muscle",
+"side": "R",
+"base": "depressor septi nasi",
+"size": 129084
+},
+"FMA55609": {
+"name": "left depressor septi nasi",
+"kind": "muscle",
+"side": "L",
+"base": "depressor septi nasi",
+"size": 127284
+},
+"FMA55610": {
+"name": "right procerus",
+"kind": "muscle",
+"side": "R",
+"base": "procerus",
+"size": 274584
+},
+"FMA55611": {
+"name": "left procerus",
+"kind": "muscle",
+"side": "L",
+"base": "procerus",
+"size": 274184
+},
+"FMA55680": {
+"name": "right upper lateral secondary incisor tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper lateral secondary incisor tooth",
+"size": 342184
+},
+"FMA55681": {
+"name": "right upper central secondary incisor tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper central secondary incisor tooth",
+"size": 322384
+},
+"FMA55682": {
+"name": "left upper central secondary incisor tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper central secondary incisor tooth",
+"size": 322284
+},
+"FMA55683": {
+"name": "left upper lateral secondary incisor tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper lateral secondary incisor tooth",
+"size": 344884
+},
+"FMA55686": {
+"name": "right lower secondary canine tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower secondary canine tooth",
+"size": 294784
+},
+"FMA55687": {
+"name": "left lower secondary canine tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower secondary canine tooth",
+"size": 295384
+},
+"FMA55688": {
+"name": "right upper second secondary premolar tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper second secondary premolar tooth",
+"size": 366584
+},
+"FMA55689": {
+"name": "right upper first secondary premolar tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper first secondary premolar tooth",
+"size": 402784
+},
+"FMA55690": {
+"name": "left upper first secondary premolar tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper first secondary premolar tooth",
+"size": 402984
+},
+"FMA55691": {
+"name": "left upper second secondary premolar tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper second secondary premolar tooth",
+"size": 366784
+},
+"FMA55692": {
+"name": "left lower second secondary premolar tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower second secondary premolar tooth",
+"size": 281084
+},
+"FMA55693": {
+"name": "left lower first secondary premolar tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower first secondary premolar tooth",
+"size": 294384
+},
+"FMA55694": {
+"name": "right lower first secondary premolar tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower first secondary premolar tooth",
+"size": 295084
+},
+"FMA55695": {
+"name": "right lower second secondary premolar tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower second secondary premolar tooth",
+"size": 281284
+},
+"FMA55697": {
+"name": "right upper second secondary molar tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper second secondary molar tooth",
+"size": 462784
+},
+"FMA55698": {
+"name": "right upper first secondary molar tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper first secondary molar tooth",
+"size": 539384
+},
+"FMA55699": {
+"name": "left upper first secondary molar tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper first secondary molar tooth",
+"size": 539484
+},
+"FMA55700": {
+"name": "left upper second secondary molar tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper second secondary molar tooth",
+"size": 462284
+},
+"FMA55703": {
+"name": "left lower second secondary molar tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower second secondary molar tooth",
+"size": 404484
+},
+"FMA55704": {
+"name": "left lower first secondary molar tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower first secondary molar tooth",
+"size": 440584
+},
+"FMA55705": {
+"name": "right lower first secondary molar tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower first secondary molar tooth",
+"size": 440984
+},
+"FMA55706": {
+"name": "right lower second secondary molar tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower second secondary molar tooth",
+"size": 405184
+},
+"FMA55798": {
+"name": "right upper secondary canine tooth",
+"kind": "bone",
+"side": "R",
+"base": "upper secondary canine tooth",
+"size": 348384
+},
+"FMA55799": {
+"name": "left upper secondary canine tooth",
+"kind": "bone",
+"side": "L",
+"base": "upper secondary canine tooth",
+"size": 348384
+},
+"FMA57140": {
+"name": "right lower lateral secondary incisor tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower lateral secondary incisor tooth",
+"size": 239584
+},
+"FMA57141": {
+"name": "left lower lateral secondary incisor tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower lateral secondary incisor tooth",
+"size": 240284
+},
+"FMA57142": {
+"name": "right lower central secondary incisor tooth",
+"kind": "bone",
+"side": "R",
+"base": "lower central secondary incisor tooth",
+"size": 230084
+},
+"FMA57143": {
+"name": "left lower central secondary incisor tooth",
+"kind": "bone",
+"side": "L",
+"base": "lower central secondary incisor tooth",
+"size": 229884
+},
+"FMA58776": {
+"name": "right iliotibial tract",
+"kind": "muscle",
+"side": "R",
+"base": "iliotibial tract",
+"size": 12165484
+},
+"FMA58777": {
+"name": "left iliotibial tract",
+"kind": "muscle",
+"side": "L",
+"base": "iliotibial tract",
+"size": 12244284
+},
+"FMA59763": {
+"name": "gingiva of upper jaw",
+"kind": "other",
+"side": "C",
+"base": "gingiva of upper jaw",
+"size": 459684
+},
+"FMA59764": {
+"name": "gingiva of lower jaw",
+"kind": "other",
+"side": "C",
+"base": "gingiva of lower jaw",
+"size": 479884
+},
+"FMA59815nsn": {
+"name": "labial part of mouth, nsn",
+"kind": "other",
+"side": "C",
+"base": "labial part of mouth, nsn",
+"size": 322084
+},
+"FMA61822": {
+"name": "white matter structure of cerebral hemisphere",
+"kind": "other",
+"side": "C",
+"base": "white matter structure of cerebral hemisphere",
+"size": 8828284
+},
+"FMA61993nsn": {
+"name": "midbrain, nsn",
+"kind": "other",
+"side": "C",
+"base": "midbrain, nsn",
+"size": 2815784
+},
+"FMA62008nsn": {
+"name": "hypothalamus, nsn",
+"kind": "other",
+"side": "C",
+"base": "hypothalamus, nsn",
+"size": 884584
+},
+"FMA62382": {
+"name": "right optic tract",
+"kind": "other",
+"side": "R",
+"base": "optic tract",
+"size": 505584
+},
+"FMA65014": {
+"name": "right flexor hallucis longus",
+"kind": "muscle",
+"side": "R",
+"base": "flexor hallucis longus",
+"size": 2943884
+},
+"FMA65015": {
+"name": "left flexor hallucis longus",
+"kind": "muscle",
+"side": "L",
+"base": "flexor hallucis longus",
+"size": 2992984
+},
+"FMA65016": {
+"name": "right flexor digitorum longus",
+"kind": "muscle",
+"side": "R",
+"base": "flexor digitorum longus",
+"size": 3495784
+},
+"FMA65017": {
+"name": "left flexor digitorum longus",
+"kind": "muscle",
+"side": "L",
+"base": "flexor digitorum longus",
+"size": 3568384
+},
+"FMA65018": {
+"name": "right tibialis posterior",
+"kind": "muscle",
+"side": "R",
+"base": "tibialis posterior",
+"size": 3022684
+},
+"FMA65019": {
+"name": "left tibialis posterior",
+"kind": "muscle",
+"side": "L",
+"base": "tibialis posterior",
+"size": 2903184
+},
+"FMA65198": {
+"name": "superficial head of right flexor pollicis brevis",
+"kind": "muscle",
+"side": "R",
+"base": "superficial head of flexor pollicis brevis",
+"size": 213184
+},
+"FMA65199": {
+"name": "superficial head of left flexor pollicis brevis",
+"kind": "muscle",
+"side": "L",
+"base": "superficial head of flexor pollicis brevis",
+"size": 188284
+},
+"FMA65470": {
+"name": "proximal phalanx of left thumb",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of thumb",
+"size": 65784
+},
+"FMA66326": {
+"name": "pulmonary artery",
+"kind": "other",
+"side": "C",
+"base": "pulmonary artery",
+"size": 5847484
+},
+"FMA66643": {
+"name": "pulmonary vein",
+"kind": "other",
+"side": "C",
+"base": "pulmonary vein",
+"size": 3627484
+},
+"FMA66791": {
+"name": "proximal phalanx of left little finger",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of little finger",
+"size": 58984
+},
+"FMA67936": {
+"name": "left optic tract",
+"kind": "other",
+"side": "L",
+"base": "optic tract",
+"size": 506184
+},
+"FMA71194": {
+"name": "right lobe of thymus",
+"kind": "other",
+"side": "R",
+"base": "lobe of thymus",
+"size": 1613484
+},
+"FMA71195": {
+"name": "left lobe of thymus",
+"kind": "other",
+"side": "L",
+"base": "lobe of thymus",
+"size": 2297284
+},
+"FMA71908": {
+"name": "proximal phalanx of left middle finger",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of middle finger",
+"size": 98784
+},
+"FMA71915": {
+"name": "proximal phalanx of left index finger",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of index finger",
+"size": 84284
+},
+"FMA71916": {
+"name": "proximal phalanx of left ring finger",
+"kind": "bone",
+"side": "L",
+"base": "proximal phalanx of ring finger",
+"size": 80884
+},
+"FMA7198nsn": {
+"name": "pancreas, nsn",
+"kind": "other",
+"side": "C",
+"base": "pancreas, nsn",
+"size": 570784
+},
+"FMA7204": {
+"name": "right kidney",
+"kind": "other",
+"side": "R",
+"base": "kidney",
+"size": 619784
+},
+"FMA7205": {
+"name": "left kidney",
+"kind": "other",
+"side": "L",
+"base": "kidney",
+"size": 767984
+},
+"FMA7211": {
+"name": "right testis",
+"kind": "other",
+"side": "R",
+"base": "testis",
+"size": 13984
+},
+"FMA7212": {
+"name": "left testis",
+"kind": "other",
+"side": "L",
+"base": "testis",
+"size": 14084
+},
+"FMA72653": {
+"name": "right superior frontal gyrus",
+"kind": "other",
+"side": "R",
+"base": "superior frontal gyrus",
+"size": 1522484
+},
+"FMA72654": {
+"name": "left superior frontal gyrus",
+"kind": "other",
+"side": "L",
+"base": "superior frontal gyrus",
+"size": 1522584
+},
+"FMA72655": {
+"name": "right middle frontal gyrus",
+"kind": "other",
+"side": "R",
+"base": "middle frontal gyrus",
+"size": 777984
+},
+"FMA72656": {
+"name": "left middle frontal gyrus",
+"kind": "other",
+"side": "L",
+"base": "middle frontal gyrus",
+"size": 777284
+},
+"FMA72661": {
+"name": "right precentral gyrus",
+"kind": "other",
+"side": "R",
+"base": "precentral gyrus",
+"size": 941984
+},
+"FMA72662": {
+"name": "left precentral gyrus",
+"kind": "other",
+"side": "L",
+"base": "precentral gyrus",
+"size": 941884
+},
+"FMA72665": {
+"name": "right postcentral gyrus",
+"kind": "other",
+"side": "R",
+"base": "postcentral gyrus",
+"size": 843184
+},
+"FMA72666": {
+"name": "left postcentral gyrus",
+"kind": "other",
+"side": "L",
+"base": "postcentral gyrus",
+"size": 842984
+},
+"FMA72667": {
+"name": "right supramarginal gyrus",
+"kind": "other",
+"side": "R",
+"base": "supramarginal gyrus",
+"size": 489184
+},
+"FMA72668": {
+"name": "left supramarginal gyrus",
+"kind": "other",
+"side": "L",
+"base": "supramarginal gyrus",
+"size": 488984
+},
+"FMA72669": {
+"name": "right angular gyrus",
+"kind": "other",
+"side": "R",
+"base": "angular gyrus",
+"size": 658684
+},
+"FMA72670": {
+"name": "left angular gyrus",
+"kind": "other",
+"side": "L",
+"base": "angular gyrus",
+"size": 658284
+},
+"FMA72685": {
+"name": "right middle temporal gyrus",
+"kind": "other",
+"side": "R",
+"base": "middle temporal gyrus",
+"size": 646384
+},
+"FMA72686": {
+"name": "left middle temporal gyrus",
+"kind": "other",
+"side": "L",
+"base": "middle temporal gyrus",
+"size": 645984
+},
+"FMA72687": {
+"name": "right inferior temporal gyrus",
+"kind": "other",
+"side": "R",
+"base": "inferior temporal gyrus",
+"size": 652884
+},
+"FMA72688": {
+"name": "left inferior temporal gyrus",
+"kind": "other",
+"side": "L",
+"base": "inferior temporal gyrus",
+"size": 652084
+},
+"FMA72689": {
+"name": "right fusiform gyrus",
+"kind": "other",
+"side": "R",
+"base": "fusiform gyrus",
+"size": 307584
+},
+"FMA72690": {
+"name": "left fusiform gyrus",
+"kind": "other",
+"side": "L",
+"base": "fusiform gyrus",
+"size": 307484
+},
+"FMA72701": {
+"name": "right accessory short gyrus",
+"kind": "other",
+"side": "R",
+"base": "accessory short gyrus",
+"size": 767384
+},
+"FMA72702": {
+"name": "left accessory short gyrus",
+"kind": "other",
+"side": "L",
+"base": "accessory short gyrus",
+"size": 766584
+},
+"FMA72705": {
+"name": "right parahippocampal gyrus",
+"kind": "other",
+"side": "R",
+"base": "parahippocampal gyrus",
+"size": 172784
+},
+"FMA72706": {
+"name": "left parahippocampal gyrus",
+"kind": "other",
+"side": "L",
+"base": "parahippocampal gyrus",
+"size": 172684
+},
+"FMA72713": {
+"name": "right hippocampus",
+"kind": "other",
+"side": "R",
+"base": "hippocampus",
+"size": 222684
+},
+"FMA72714": {
+"name": "left hippocampus",
+"kind": "other",
+"side": "L",
+"base": "hippocampus",
+"size": 214084
+},
+"FMA72717": {
+"name": "right cingulate gyrus",
+"kind": "other",
+"side": "R",
+"base": "cingulate gyrus",
+"size": 585884
+},
+"FMA72718": {
+"name": "left cingulate gyrus",
+"kind": "other",
+"side": "L",
+"base": "cingulate gyrus",
+"size": 586284
+},
+"FMA7274": {
+"name": "wall of heart",
+"kind": "other",
+"side": "C",
+"base": "wall of heart",
+"size": 16579684
+},
+"FMA72800": {
+"name": "anterior part of right superior temporal gyrus",
+"kind": "other",
+"side": "R",
+"base": "anterior part of superior temporal gyrus",
+"size": 417484
+},
+"FMA72801": {
+"name": "anterior part of left superior temporal gyrus",
+"kind": "other",
+"side": "L",
+"base": "anterior part of superior temporal gyrus",
+"size": 416984
+},
+"FMA72804": {
+"name": "posterior part of right superior temporal gyrus",
+"kind": "other",
+"side": "R",
+"base": "posterior part of superior temporal gyrus",
+"size": 523684
+},
+"FMA72805": {
+"name": "posterior part of left superior temporal gyrus",
+"kind": "other",
+"side": "L",
+"base": "posterior part of superior temporal gyrus",
+"size": 523684
+},
+"FMA72826": {
+"name": "right caudate nucleus",
+"kind": "other",
+"side": "R",
+"base": "caudate nucleus",
+"size": 563684
+},
+"FMA72827": {
+"name": "left caudate nucleus",
+"kind": "other",
+"side": "L",
+"base": "caudate nucleus",
+"size": 558084
+},
+"FMA72828": {
+"name": "right putamen",
+"kind": "other",
+"side": "R",
+"base": "putamen",
+"size": 1533584
+},
+"FMA72829": {
+"name": "left putamen",
+"kind": "other",
+"side": "L",
+"base": "putamen",
+"size": 1531884
+},
+"FMA72830": {
+"name": "right globus pallidus",
+"kind": "other",
+"side": "R",
+"base": "globus pallidus",
+"size": 1160384
+},
+"FMA72831": {
+"name": "left globus pallidus",
+"kind": "other",
+"side": "L",
+"base": "globus pallidus",
+"size": 1536984
+},
+"FMA72832": {
+"name": "right amygdala",
+"kind": "other",
+"side": "R",
+"base": "amygdala",
+"size": 87284
+},
+"FMA72833": {
+"name": "left amygdala",
+"kind": "other",
+"side": "L",
+"base": "amygdala",
+"size": 86884
+},
+"FMA72908": {
+"name": "anterior limb of right internal capsule",
+"kind": "other",
+"side": "R",
+"base": "anterior limb of internal capsule",
+"size": 2436184
+},
+"FMA72909": {
+"name": "anterior limb of left internal capsule",
+"kind": "other",
+"side": "L",
+"base": "anterior limb of internal capsule",
+"size": 2435684
+},
+"FMA72924": {
+"name": "right fornix of forebrain",
+"kind": "other",
+"side": "R",
+"base": "fornix of forebrain",
+"size": 1465084
+},
+"FMA72925": {
+"name": "left fornix of forebrain",
+"kind": "other",
+"side": "L",
+"base": "fornix of forebrain",
+"size": 1468684
+},
+"FMA72939": {
+"name": "right stria terminalis",
+"kind": "other",
+"side": "R",
+"base": "stria terminalis",
+"size": 153984
+},
+"FMA72940": {
+"name": "left stria terminalis",
+"kind": "other",
+"side": "L",
+"base": "stria terminalis",
+"size": 151384
+},
+"FMA72975": {
+"name": "right occipital lobe",
+"kind": "other",
+"side": "R",
+"base": "occipital lobe",
+"size": 938184
+},
+"FMA72976": {
+"name": "left occipital lobe",
+"kind": "other",
+"side": "L",
+"base": "occipital lobe",
+"size": 937384
+},
+"FMA72977": {
+"name": "right insula",
+"kind": "other",
+"side": "R",
+"base": "insula",
+"size": 612084
+},
+"FMA72978": {
+"name": "left insula",
+"kind": "other",
+"side": "L",
+"base": "insula",
+"size": 612184
+},
+"FMA73303": {
+"name": "right lateral geniculate body",
+"kind": "other",
+"side": "R",
+"base": "lateral geniculate body",
+"size": 131084
+},
+"FMA73304": {
+"name": "left lateral geniculate body",
+"kind": "other",
+"side": "L",
+"base": "lateral geniculate body",
+"size": 34384
+},
+"FMA73309": {
+"name": "right medial geniculate body",
+"kind": "other",
+"side": "R",
+"base": "medial geniculate body",
+"size": 10484
+},
+"FMA73310": {
+"name": "left medial geniculate body",
+"kind": "other",
+"side": "L",
+"base": "medial geniculate body",
+"size": 10084
+},
+"FMA73413": {
+"name": "right stria medullaris of thalamus",
+"kind": "other",
+"side": "R",
+"base": "stria medullaris of thalamus",
+"size": 192684
+},
+"FMA73414": {
+"name": "left stria medullaris of thalamus",
+"kind": "other",
+"side": "L",
+"base": "stria medullaris of thalamus",
+"size": 193584
+},
+"FMA73422": {
+"name": "right superior colliculus",
+"kind": "other",
+"side": "R",
+"base": "superior colliculus",
+"size": 10284
+},
+"FMA73423": {
+"name": "left superior colliculus",
+"kind": "other",
+"side": "L",
+"base": "superior colliculus",
+"size": 10284
+},
+"FMA73434": {
+"name": "right inferior colliculus",
+"kind": "other",
+"side": "R",
+"base": "inferior colliculus",
+"size": 13584
+},
+"FMA73435": {
+"name": "left inferior colliculus",
+"kind": "other",
+"side": "L",
+"base": "inferior colliculus",
+"size": 13584
+},
+"FMA73461": {
+"name": "brachium of right superior colliculus",
+"kind": "other",
+"side": "R",
+"base": "brachium of superior colliculus",
+"size": 36584
+},
+"FMA73462": {
+"name": "brachium of left superior colliculus",
+"kind": "other",
+"side": "L",
+"base": "brachium of superior colliculus",
+"size": 35784
+},
+"FMA73463": {
+"name": "brachium of right inferior colliculus",
+"kind": "other",
+"side": "R",
+"base": "brachium of inferior colliculus",
+"size": 34384
+},
+"FMA73464": {
+"name": "brachium of left inferior colliculus",
+"kind": "other",
+"side": "L",
+"base": "brachium of inferior colliculus",
+"size": 33684
+},
+"FMA74075": {
+"name": "set of right levatores costarum longi",
+"kind": "muscle",
+"side": "R",
+"base": "set of levatores costarum longi",
+"size": 2946284
+},
+"FMA74076": {
+"name": "set of left levatores costarum longi",
+"kind": "muscle",
+"side": "L",
+"base": "set of levatores costarum longi",
+"size": 2912784
+},
+"FMA74077": {
+"name": "set of right levatores costarum breves",
+"kind": "muscle",
+"side": "R",
+"base": "set of levatores costarum breves",
+"size": 1484784
+},
+"FMA74078": {
+"name": "set of left levatores costarum breves",
+"kind": "muscle",
+"side": "L",
+"base": "set of levatores costarum breves",
+"size": 1487084
+},
+"FMA7409": {
+"name": "bronchus",
+"kind": "other",
+"side": "C",
+"base": "bronchus",
+"size": 5781584
+},
+"FMA74140": {
+"name": "set of dorsal interossei of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "set of dorsal interossei of foot",
+"size": 859984
+},
+"FMA74141": {
+"name": "set of dorsal interossei of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "set of dorsal interossei of foot",
+"size": 811584
+},
+"FMA78449": {
+"name": "right lateral ventricle",
+"kind": "other",
+"side": "R",
+"base": "lateral ventricle",
+"size": 3910984
+},
+"FMA78450": {
+"name": "left lateral ventricle",
+"kind": "other",
+"side": "L",
+"base": "lateral ventricle",
+"size": 3900584
+},
+"FMA7857": {
+"name": "right first rib",
+"kind": "bone",
+"side": "R",
+"base": "first rib",
+"size": 709784
+},
+"FMA7875": {
+"name": "right first costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "first costal cartilage",
+"size": 117184
+},
+"FMA7882": {
+"name": "right second rib",
+"kind": "bone",
+"side": "R",
+"base": "second rib",
+"size": 1184784
+},
+"FMA7886": {
+"name": "right second costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "second costal cartilage",
+"size": 127084
+},
+"FMA7909": {
+"name": "right third rib",
+"kind": "bone",
+"side": "R",
+"base": "third rib",
+"size": 1543084
+},
+"FMA7913": {
+"name": "right third costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "third costal cartilage",
+"size": 134784
+},
+"FMA7957": {
+"name": "right fourth rib",
+"kind": "bone",
+"side": "R",
+"base": "fourth rib",
+"size": 1924484
+},
+"FMA7976": {
+"name": "right fourth costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "fourth costal cartilage",
+"size": 174384
+},
+"FMA7987": {
+"name": "left first rib",
+"kind": "bone",
+"side": "L",
+"base": "first rib",
+"size": 773284
+},
+"FMA79979": {
+"name": "sternocostal part of right pectoralis major",
+"kind": "muscle",
+"side": "R",
+"base": "sternocostal part of pectoralis major",
+"size": 1800784
+},
+"FMA79980": {
+"name": "sternocostal part of left pectoralis major",
+"kind": "muscle",
+"side": "L",
+"base": "sternocostal part of pectoralis major",
+"size": 1789984
+},
+"FMA8005": {
+"name": "left first costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "first costal cartilage",
+"size": 110284
+},
+"FMA8012": {
+"name": "left second rib",
+"kind": "bone",
+"side": "L",
+"base": "second rib",
+"size": 1265284
+},
+"FMA8031": {
+"name": "left second costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "second costal cartilage",
+"size": 117584
+},
+"FMA8039": {
+"name": "left third rib",
+"kind": "bone",
+"side": "L",
+"base": "third rib",
+"size": 1560684
+},
+"FMA8058": {
+"name": "left third costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "third costal cartilage",
+"size": 121484
+},
+"FMA8066": {
+"name": "right fifth rib",
+"kind": "bone",
+"side": "R",
+"base": "fifth rib",
+"size": 2081784
+},
+"FMA8070": {
+"name": "right fifth costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "fifth costal cartilage",
+"size": 241584
+},
+"FMA8093": {
+"name": "left fifth rib",
+"kind": "bone",
+"side": "L",
+"base": "fifth rib",
+"size": 2078484
+},
+"FMA8112": {
+"name": "left fifth costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "fifth costal cartilage",
+"size": 226884
+},
+"FMA8148": {
+"name": "left fourth rib",
+"kind": "bone",
+"side": "L",
+"base": "fourth rib",
+"size": 1896184
+},
+"FMA8167": {
+"name": "left fourth costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "fourth costal cartilage",
+"size": 161084
+},
+"FMA8175": {
+"name": "right sixth rib",
+"kind": "bone",
+"side": "R",
+"base": "sixth rib",
+"size": 2231784
+},
+"FMA81752": {
+"name": "right cervical rotator",
+"kind": "muscle",
+"side": "R",
+"base": "cervical rotator",
+"size": 773184
+},
+"FMA81753": {
+"name": "left cervical rotator",
+"kind": "muscle",
+"side": "L",
+"base": "cervical rotator",
+"size": 715784
+},
+"FMA8194": {
+"name": "right sixth costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "sixth costal cartilage",
+"size": 303984
+},
+"FMA8202": {
+"name": "left sixth rib",
+"kind": "bone",
+"side": "L",
+"base": "sixth rib",
+"size": 2221784
+},
+"FMA8221": {
+"name": "left sixth costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "sixth costal cartilage",
+"size": 298384
+},
+"FMA8229": {
+"name": "right seventh rib",
+"kind": "bone",
+"side": "R",
+"base": "seventh rib",
+"size": 2157384
+},
+"FMA8248": {
+"name": "right seventh costal cartilage",
+"kind": "bone",
+"side": "R",
+"base": "seventh costal cartilage",
+"size": 524684
+},
+"FMA8256": {
+"name": "left seventh rib",
+"kind": "bone",
+"side": "L",
+"base": "seventh rib",
+"size": 2203184
+},
+"FMA8275": {
+"name": "left seventh costal cartilage",
+"kind": "bone",
+"side": "L",
+"base": "seventh costal cartilage",
+"size": 495184
+},
+"FMA8283": {
+"name": "right eighth rib",
+"kind": "bone",
+"side": "R",
+"base": "eighth rib",
+"size": 1832384
+},
+"FMA8310": {
+"name": "left eighth rib",
+"kind": "bone",
+"side": "L",
+"base": "eighth rib",
+"size": 1856784
+},
+"FMA8364": {
+"name": "right ninth rib",
+"kind": "bone",
+"side": "R",
+"base": "ninth rib",
+"size": 1713984
+},
+"FMA8391": {
+"name": "left ninth rib",
+"kind": "bone",
+"side": "L",
+"base": "ninth rib",
+"size": 1801084
+},
+"FMA8445": {
+"name": "right tenth rib",
+"kind": "bone",
+"side": "R",
+"base": "tenth rib",
+"size": 1550584
+},
+"FMA8472": {
+"name": "left tenth rib",
+"kind": "bone",
+"side": "L",
+"base": "tenth rib",
+"size": 1587984
+},
+"FMA8531": {
+"name": "right eleventh rib",
+"kind": "bone",
+"side": "R",
+"base": "eleventh rib",
+"size": 1121484
+},
+"FMA8532": {
+"name": "left eleventh rib",
+"kind": "bone",
+"side": "L",
+"base": "eleventh rib",
+"size": 1141384
+},
+"FMA8533": {
+"name": "right twelfth rib",
+"kind": "bone",
+"side": "R",
+"base": "twelfth rib",
+"size": 663184
+},
+"FMA8534": {
+"name": "left twelfth rib",
+"kind": "bone",
+"side": "L",
+"base": "twelfth rib",
+"size": 686384
+},
+"FMA86034": {
+"name": "opponens digiti minimi of right foot",
+"kind": "muscle",
+"side": "R",
+"base": "opponens digiti minimi of foot",
+"size": 121284
+},
+"FMA86035": {
+"name": "opponens digiti minimi of left foot",
+"kind": "muscle",
+"side": "L",
+"base": "opponens digiti minimi of foot",
+"size": 126184
+},
+"FMA9165": {
+"name": "first thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "first thoracic vertebra",
+"size": 280784
+},
+"FMA9187": {
+"name": "second thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "second thoracic vertebra",
+"size": 418084
+},
+"FMA9209": {
+"name": "third thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "third thoracic vertebra",
+"size": 445584
+},
+"FMA9248": {
+"name": "fourth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "fourth thoracic vertebra",
+"size": 446584
+},
+"FMA9352nsn": {
+"name": "papillary muscle of left ventricle, nsn",
+"kind": "other",
+"side": "L",
+"base": "papillary muscle of ventricle, nsn",
+"size": 204284
+},
+"FMA9761": {
+"name": "right transversus thoracis",
+"kind": "muscle",
+"side": "R",
+"base": "transversus thoracis",
+"size": 876484
+},
+"FMA9762": {
+"name": "left transversus thoracis",
+"kind": "muscle",
+"side": "L",
+"base": "transversus thoracis",
+"size": 869884
+},
+"FMA9922": {
+"name": "fifth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "fifth thoracic vertebra",
+"size": 491784
+},
+"FMA9945": {
+"name": "sixth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "sixth thoracic vertebra",
+"size": 244884
+},
+"FMA9968": {
+"name": "seventh thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "seventh thoracic vertebra",
+"size": 537084
+},
+"FMA9991": {
+"name": "eighth thoracic vertebra",
+"kind": "bone",
+"side": "C",
+"base": "eighth thoracic vertebra",
+"size": 260384
+}
+}
