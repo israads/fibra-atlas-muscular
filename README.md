@@ -1,6 +1,21 @@
 # Fibra, atlas muscular 3D
 
-Visor 3D del cuerpo humano para marcar músculos lesionados y obtener su pauta de estiramientos y ejercicios.
+Herramienta para fisioterapia: un visor 3D del cuerpo humano, con todos sus músculos, para marcar los lesionados y obtener su pauta de qué hacer, qué evitar, estiramientos y ejercicios.
+
+**Pruébalo: https://israads.github.io/fibra-atlas-muscular/** (funciona en el celular, sin instalar nada y sin crear cuenta)
+
+<p align="center">
+  <img src="docs/escritorio.png" alt="Fibra en escritorio: el modelo 3D con el hombro y el brazo marcados y, a la derecha, el plan del manguito rotador" width="72%">
+  <img src="docs/movil.png" alt="Fibra en el celular: el modelo a pantalla completa con los músculos marcados y el botón para compartir el enlace" width="21%">
+</p>
+
+## Para quién es
+
+- **Fisioterapeutas**: en consulta, giras el cuerpo, tocas los músculos afectados y le enseñas al paciente la línea completa que le duele. Asignas la gravedad (leve, moderada o severa) y le mandas un enlace con su mapa y su plan.
+- **Pacientes**: abres el enlace que te mandó tu fisio y ves exactamente qué músculos son, dónde están, qué debes hacer y qué debes evitar.
+- **Estudiantes de fisioterapia y anatomía**: 403 músculos con su nombre en español, su grupo y su acción. Puedes ocultar los superficiales para ver los profundos y aislar una zona.
+
+No se guarda nada en ningún servidor: el mapa viaja dentro del propio enlace.
 
 ## Uso
 
